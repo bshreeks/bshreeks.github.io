@@ -1,4 +1,5 @@
 ## Datascientist
 
 ## Education
-PhD in Pysics : Indian Institute of Science, Bangalore, India
+*PhD in Physics : Indian Institute of Science, Bangalore, India*
+
