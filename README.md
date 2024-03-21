@@ -2,7 +2,6 @@
 
 
 ## Education
-----------------------------------
-PhD in Physics | Indian Institute of Science, Bangalore, India|June 2016
------------------------------------
+|PhD in Physics | Indian Institute of Science, Bangalore, India|June 2016|
+|---------------|----------------------------------------------|---------|
 
