@@ -60,16 +60,16 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Row 1, Col 1</td>
-      <td style="padding: 8px;">Row 1, Col </td>
+      <td style="border-right: 1px solid #000; padding: 8px;">Python</td>
+      <td style="padding: 8px;">SQL</td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Row 2, Col 1</td>
-      <td style="padding: 8px;">Row 2, Col 2</td>
+      <td style="border-right: 1px solid #000; padding: 8px;">NumPy & Pandas</td>
+      <td style="padding: 8px;">Probability & Statistics</td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Row 3, Col 1</td>
-      <td style="padding: 8px;">Row 3, Col 2</td>
+      <td style="border-right: 1px solid #000; padding: 8px;">Matplotlib & Seaborn</td>
+      <td style="padding: 8px;">Microsoft Excel</td>
     </tr>
   </tbody>
 </table>
