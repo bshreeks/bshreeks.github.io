@@ -18,8 +18,20 @@
   <table>
 
 ## Courses
-|Data Scientist in Python|Dataquest|Present|
-|------------------------|---------|-------|
+<table>
+  <colgroup>
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="border-right: 1px solid #000;">Data Scientist in Python</th>
+      <th style="border-right: 1px solid #000;">Dataquest</th>
+      <th>Present</th>
+    </tr>
+  </thead>
+  <table>
 
 ## Skills
 |Python|NumPy & Pandas|Matplotlib & Seaborn|SQL|Probability & Statistics|Microsoft Excel|
