@@ -34,6 +34,20 @@
   <table>
 
 ## Skills
+<table>
+  <colgroup>
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="border-right: 1px solid #000;">Python</th>
+      <th style="border-right: 1px solid #000;">NumPy & Pandas</th>
+      <th>Matplotlib & Seaborn</th>
+    </tr>
+  </thead>
+  <table>
 |Python|NumPy & Pandas|Matplotlib & Seaborn|SQL|Probability & Statistics|Microsoft Excel|
 |------|--------------|--------------------|---|------------------------|---------------|
 
