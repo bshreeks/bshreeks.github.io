@@ -53,34 +53,23 @@
   </thead>
   <table>
 
-<table>
+  <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-    <col style="width: 33%;">
+    <col style="width: 50%;">
+    <col style="width: 50%;">
   </colgroup>
-  <thead>
-    <tr>
-      <th style="border-right: 1px solid #000;">Column 1 Header</th>
-      <th style="border-right: 1px solid #000;">Column 2 Header</th>
-      <th>Column 3 Header</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td style="border-right: 1px solid #000;">Row 1, Col 1</td>
-      <td style="border-right: 1px solid #000;">Row 1, Col 2</td>
-      <td>Row 1, Col 3</td>
+      <td style="border-right: 1px solid #000; padding: 8px;">Row 1, Col 1</td>
+      <td style="padding: 8px;">Row 1, Col </td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000;">Row 2, Col 1</td>
-      <td style="border-right: 1px solid #000;">Row 2, Col 2</td>
-      <td>Row 2, Col 3</td>
+      <td style="border-right: 1px solid #000; padding: 8px;">Row 2, Col 1</td>
+      <td style="padding: 8px;">Row 2, Col 2</td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000;">Row 3, Col 1</td>
-      <td style="border-right: 1px solid #000;">Row 3, Col 2</td>
-      <td>Row 3, Col 3</td>
+      <td style="border-right: 1px solid #000; padding: 8px;">Row 3, Col 1</td>
+      <td style="padding: 8px;">Row 3, Col 2</td>
     </tr>
   </tbody>
 </table>
