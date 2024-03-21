@@ -16,8 +16,6 @@
     </tr>
   </thead>
   <table>
-|PhD in Physics | Indian Institute of Science, Bangalore, India|June 2016|
-|---------------|----------------------------------------------|---------|
 
 ## Courses
 |Data Scientist in Python|Dataquest|Present|
