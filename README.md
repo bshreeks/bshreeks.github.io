@@ -45,12 +45,13 @@
     <tr>
       <th style="border-right: 1px solid #000;">Python</th>
       <th style="border-right: 1px solid #000;">NumPy & Pandas</th>
-      <th>Matplotlib & Seaborn</th>
+      <th style="border-right: 1px solid #000;">Matplotlib & Seaborn</th>
+      <th style="border-right: 1px solid #000;">SQL</th>
+      <th style="border-right: 1px solid #000;">Probability & Statistics</th>
+      <th>Microsoft Excel</th>
     </tr>
   </thead>
   <table>
-|Python|NumPy & Pandas|Matplotlib & Seaborn|SQL|Probability & Statistics|Microsoft Excel|
-|------|--------------|--------------------|---|------------------------|---------------|
 
 <table>
   <colgroup>
