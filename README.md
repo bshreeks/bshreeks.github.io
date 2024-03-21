@@ -9,3 +9,6 @@
 |Data Scientist in Python|Dataquest|Present|
 |------------------------|---------|-------|
 
+## Skills
+|Python|NumPy & Pandas|Matplotlib & Seaborn|SQL|Probability & Statistics|Microsoft Excel|
+|---------------------------------------------------------------------------------------|
