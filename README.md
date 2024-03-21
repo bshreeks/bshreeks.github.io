@@ -35,23 +35,6 @@
   <table>
 
 ## Skills
-<table>
-  <colgroup>
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="border-right: 1px solid #000;">Python</th>
-      <th style="border-right: 1px solid #000;">NumPy & Pandas</th>
-      <th style="border-right: 1px solid #000;">Matplotlib & Seaborn</th>
-      <th style="border-right: 1px solid #000;">SQL</th>
-      <th style="border-right: 1px solid #000;">Probability & Statistics</th>
-      <th>Microsoft Excel</th>
-    </tr>
-  </thead>
-  <table>
 
   <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
