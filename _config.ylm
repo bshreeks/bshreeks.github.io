@@ -2,4 +2,4 @@ title: Bhagyashree Bhat
 email: bshreeks@gmail.com
 linkdin: 
 show_downloads: True
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
