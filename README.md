@@ -2,6 +2,20 @@
 
 
 ## Education
+<table>
+  <colgroup>
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+    <col style="width: 33%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="border-right: 1px solid #000;">PhD in Physics</th>
+      <th style="border-right: 1px solid #000;">Indian Institute of Science, Bangalore,India</th>
+      <th>June 2016</th>
+    </tr>
+  </thead>
+  <table>
 |PhD in Physics | Indian Institute of Science, Bangalore, India|June 2016|
 |---------------|----------------------------------------------|---------|
 
