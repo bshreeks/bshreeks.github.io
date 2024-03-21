@@ -16,14 +16,3 @@ social:
     url: http://datayogi.unaux.com/
   - name: LinkedIn
     url: https://www.linkedin.com/in/bhagyashreeks/
-
-# Navigation Links
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
