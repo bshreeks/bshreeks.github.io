@@ -1,8 +1,7 @@
-# Example _config.yml file for a GitHub Pages site
-
 # Site Settings
 title: My Portfolio
 description: A showcase of my projects and skills
+show_downloads : "true"
 theme: jekyll-theme-midnight
 
 # Author Information
