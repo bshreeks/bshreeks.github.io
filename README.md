@@ -12,7 +12,7 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="padding: 8px;">PhD in Physics</td>
+      <td>PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
     </tr>
