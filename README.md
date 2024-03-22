@@ -12,7 +12,7 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">PhD in Physics</td>
+      <td style="padding: 8px;">PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
     </tr>
@@ -29,7 +29,7 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Data Scientist in Python</td>
+      <td style="padding: 8px;">Data Scientist in Python</td>
       <td style="padding: 8px;">Dataquest</td>
       <td style="padding: 8px;">Present</td>
     </tr>
