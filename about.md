@@ -1,5 +1,5 @@
 ---
-layout: home page
+layout: page
 title: About
 ---
 
