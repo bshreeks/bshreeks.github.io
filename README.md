@@ -2,7 +2,7 @@
 
 <br>
 
-<h3>Education</h3>
+<h3><b>Education</b></h3>
 
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
@@ -19,7 +19,7 @@
   
 <br>
 
-<h3>Courses</h3>
+<h3><b>Courses</b></h3>
 
  <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
@@ -36,7 +36,7 @@
 
 <br>
 
-<h3>Skills</h3>
+<h3><b>Skills</b></h3>
 
   <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
