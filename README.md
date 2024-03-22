@@ -12,7 +12,7 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="padding: 4px;">PhD in Physics</td>
+      <td style="padding: 8px;">PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
     </tr>
@@ -46,15 +46,15 @@
   </colgroup>
   <tbody>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Python</td>
+      <td style="padding: 8px;">Python</td>
       <td style="padding: 8px;">SQL</td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">NumPy & Pandas</td>
+      <td style="padding: 8px;">NumPy & Pandas</td>
       <td style="padding: 8px;">Probability & Statistics</td>
     </tr>
     <tr>
-      <td style="border-right: 1px solid #000; padding: 8px;">Matplotlib & Seaborn</td>
+      <td style="padding: 8px;">Matplotlib & Seaborn</td>
       <td style="padding: 8px;">Microsoft Excel</td>
     </tr>
   </tbody>
