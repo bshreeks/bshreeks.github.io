@@ -19,20 +19,19 @@
   
 
 ## Courses
-<table>
+ <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-    <col style="width: 33%;">
+    <col style="width: 50%;">
+    <col style="width: 50%;">
   </colgroup>
-  <thead>
+  <tbody>
     <tr>
-      <th style="border-right: 1px solid #000;">Data Scientist in Python</th>
-      <th style="border-right: 1px solid #000;">Dataquest</th>
-      <th>Present</th>
+      <td style="border-right: 1px solid #000; padding: 8px;">Data Scientist in Python</td>
+      <td style="padding: 8px;">Dataquest</td>
+      <td style="padding: 8px;">Present</td>
     </tr>
-  </thead>
-  <table>
+<table>
+
 
 ## Skills
 
