@@ -2,7 +2,7 @@
 title: A Data Science Odyssey
 description: Embark on a Journey of Data Exploration, Analysis, and Visualization
 show_downloads: true
-theme: jekyll-theme-midnight
+remote_theme: jekyll-theme-midnight
 
 # Author Information
 author:
