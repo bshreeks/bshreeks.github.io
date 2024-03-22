@@ -17,8 +17,10 @@
     </tr>
 <table>
   
+<br>
 
-## Courses
+<h3>Education</h3>
+
  <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 50%;">
