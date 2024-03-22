@@ -13,7 +13,7 @@
     <tr>
       <td style="border-right: 1px solid #000; padding: 8px;">PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
-      <td style="padding: 8px;">June, 2016</td>
+      <td style="padding: 8px;">2016</td>
     </tr>
 <table>
   
