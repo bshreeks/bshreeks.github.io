@@ -34,7 +34,6 @@
     </tr>
 <table>
 
-
 <br>
 
 <h3>Skills</h3>
@@ -59,4 +58,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+<h2>Projects</h2>
+
 
