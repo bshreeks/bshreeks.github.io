@@ -60,6 +60,6 @@
 </table>
 
 <br>
-<h2>Projects</h2>
+<h3><b>Projects</b></h3>
 
 
