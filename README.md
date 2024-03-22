@@ -2,20 +2,18 @@
 
 
 ## Education
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <colgroup>
-    <col style="width: 33%;">
-    <col style="width: 33%;">
-    <col style="width: 33%;">
+    <col style="width: 50%;">
+    <col style="width: 50%;">
   </colgroup>
-  <thead>
+  <tbody>
     <tr>
-      <th style="border-right: 1px solid #000;">PhD in Physics</th>
-      <th style="border-right: 1px solid #000;">Indian Institute of Science, Bangalore,India</th>
-      <th>June 2016</th>
+      <td style="border-right: 1px solid #000; padding: 8px;">PhD in Physics</td>
+      <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
+      <td style="padding: 8px;">June, 2016</td>
     </tr>
-  </thead>
-  <table>
+<table>
   
 
 ## Courses
