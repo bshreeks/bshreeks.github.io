@@ -4,6 +4,7 @@
 <head>
   <title>Education</title>
 </head>
+
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 50%;">
