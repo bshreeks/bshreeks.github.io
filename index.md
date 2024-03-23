@@ -12,5 +12,6 @@ layout: default
 </head>
 <body>
   <!-- Heading centered using CSS -->
-  <h1 class="center">Embark on a Journey of Data Exploration, Analysis, and Visualization</h1>
+  <h1 class="center">Data Science Odyssey</h1>
 </body>
+Embark on a Journey of Data Exploration, Analysis, and Visualization
