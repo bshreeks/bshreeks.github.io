@@ -1,9 +1,10 @@
 # Site Settings
-title: Bhagyashree KS Bhat
-description: Data Scientist
+title: Bhagyashree Bhat
+# description: Data Scientist
 url: https://bshreeks.github.io/ # your main domain
 baseurl: "" # the subpath of your site, e.g., /blog
 logo: /assets/images/PP2.jpg
+email: bshreeks@gmail.com
 show_downloads: false
 theme: jekyll-theme-minimal
 
