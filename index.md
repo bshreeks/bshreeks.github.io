@@ -2,7 +2,7 @@
 layout: default
 ---
 <head>
-  <title>A Data Science Odyssey</title>
+  <title>Centered Heading</title>
   <style>
     /* CSS code to center the heading */
     .center {
