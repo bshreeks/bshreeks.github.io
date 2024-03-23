@@ -1,6 +1,8 @@
 # Site Settings
 title: A Data Science Odyssey
 description: Embark on a Journey of Data Exploration, Analysis, and Visualization
+url: 'https://bshreeks.github.io/' # your main domain
+baseurl: 'PythonFunctionLibrary/' # if you're using custom domain keep this blank example: baseurl: ''
 profile_picture: /assets/images/PP2.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
