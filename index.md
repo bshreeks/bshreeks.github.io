@@ -9,7 +9,7 @@ layout: default
       text-align: center;
     }
     /* CSS code to adjust the font size of the subtitle */
-    .center p {
+    .p {
       font-size: 15px; /* Change the font size to 14 pixels */
     }
   </style>
