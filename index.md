@@ -27,7 +27,7 @@ layout: default
 
 <br>
 
-<h3><b>Education</b></h3>
+<h2><b>Education</b></h2>
 
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
@@ -44,7 +44,7 @@ layout: default
   
 <br>
 
-<h3><b>Courses</b></h3>
+<h2><b>Courses</b></h2>
 
  <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
@@ -61,7 +61,7 @@ layout: default
 
 <br>
 
-<h3><b>Skills</b></h3>
+<h2><b>Skills</b></h2>
 
   <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
