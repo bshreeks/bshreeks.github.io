@@ -2,7 +2,7 @@
 title: Bhagyashree Bhat
 text_color: black
 description: bshreeks@gmail.com
-description: https://www.linkedin.com/in/bhagyashreeks/
+long_description: https://www.linkedin.com/in/bhagyashreeks/
 url: https://bshreeks.github.io/ # your main domain
 baseurl: "" # the subpath of your site, e.g., /blog
 logo: /assets/images/PP2.jpg
