@@ -10,7 +10,7 @@ layout: default
     }
     /* CSS code to adjust the font size of the subtitle */
     .center p {
-      font-size: 14px; /* Change the font size to 14 pixels */
+      font-size: 15px; /* Change the font size to 14 pixels */
     }
   </style>
 </head>
