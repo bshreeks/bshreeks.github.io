@@ -3,14 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-/* CSS code to style the email ID and other details */
-.site-details {
-  /* Adjust the positioning and styling as needed */
-  position: absolute;
-  top: 100%; /* Position below the logo */
-  left: 50%; /* Center horizontally */
-  transform: translateX(-50%); /* Center horizontally */
-  text-align: center; /* Center text */
-  font-size: 14px; /* Adjust font size */
-  color: #333; /* Adjust text color */
+/* Custom styles */
+.header {
+  background-color: blue;
 }
