@@ -6,18 +6,18 @@
 /* Custom styles */
 body {
   background-color: lightgrey;
-  color: darkgrey;
+  color: black;
   color: var(--text-color);
 }
 h1 {
-  color: black; 
+  color: white; 
 }
 description {
   color: black;
 }
-.site-title {
-  color: darkgrey; 
+title {
+  color: white; 
 }
-.subtitle {
-  color: darkgrey; /* Changes the subtitle color */
+subtitle {
+  color: black; /* Changes the subtitle color */
 }
