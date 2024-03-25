@@ -41,7 +41,7 @@ layout: default
       <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Degree Certificate</a></td>
     </tr>
 <table>
-  
+<br>
 
 <h2><b>Courses</b></h2>
  <table style="border-collapse: collapse; width: 100%;">
@@ -58,7 +58,7 @@ layout: default
     </tr>
 <table>
 
-
+<br>
 <h2><b>Skills</b></h2>
   <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
