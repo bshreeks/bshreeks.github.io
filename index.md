@@ -54,7 +54,7 @@ layout: default
       <td style="padding: 8px;">Present</td>
       <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Certificate of Completion</a></td>
     </tr>
- <table>
+<table>
 
 <h2><b>Skills</b></h2>
 <table style="border-collapse: collapse; width: 100%;">
