@@ -57,7 +57,7 @@ layout: default
 <table>
 
 <h2 style="margin-bottom: 0;"><b>Skills</b></h2>
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; margin-bottom: 0;">
   <colgroup>
     <col style="width: 30%;">
     <col style="width: 30%;">
