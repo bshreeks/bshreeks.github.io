@@ -62,7 +62,7 @@ layout: default
 <h2><b>Skills</b></h2>
   <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
-    <col style="width: 20%;">
+    <col style="width: 30%;">
     <col style="width: 30%;">
   </colgroup>
   <tbody>
