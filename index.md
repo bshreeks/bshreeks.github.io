@@ -39,6 +39,7 @@ layout: default
       <td>PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
+      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">LinkedIn Profile</a></td>
     </tr>
 <table>
   
