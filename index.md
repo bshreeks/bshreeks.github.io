@@ -47,7 +47,7 @@ layout: default
  <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 35%;">
-    <col style="width: 20%;">
+    <col style="width: 15%;">
   </colgroup>
   <tbody>
     <tr>
