@@ -42,7 +42,7 @@ layout: default
 <table>
 
 <h2><b>Courses</b></h2>
- <table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 35%;">
     <col style="width: 15%;">
@@ -50,28 +50,28 @@ layout: default
   <tbody>
     <tr>
       <td style="padding: 8px;">Data Scientist in Python</td>
-      <td style="padding: 4px;">Dataquest</td>
+      <td style="padding: 8px;">Dataquest</td>
       <td style="padding: 8px;">Present</td>
       <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Certificate of Completion</a></td>
     </tr>
-<table>
+ <table>
 
 <h2><b>Skills</b></h2>
-  <table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 30%;">
     <col style="width: 30%;">
   </colgroup>
   <tbody>
     <tr>
-      <td style="padding: 5px;">Python</td>
-      <td style="padding: 5px;">NumPy & Pandas</td>
-      <td style="padding: 6px;">Matplotlib & Seaborn</td>
+      <td style="padding: 8px;">Python</td>
+      <td style="padding: 8px;">NumPy & Pandas</td>
+      <td style="padding: 8px;">Matplotlib & Seaborn</td>
     </tr>
     <tr>
-      <td style="padding: 5px;">SQL</td>
-      <td style="padding: 5px;">SciPy</td>
-      <td style="padding: 5px;">Scikit-learn</td>
+      <td style="padding: 8px;">SQL</td>
+      <td style="padding: 8px;">SciPy</td>
+      <td style="padding: 8px;">Scikit-learn</td>
     </tr>
   </tbody>
 </table>
