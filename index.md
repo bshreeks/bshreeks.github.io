@@ -85,4 +85,4 @@ layout: default
 </table>
 
 <br>
-<h3><b>Projects</b></h3>
+<h2><b>Projects</b></h2>
