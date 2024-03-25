@@ -56,7 +56,7 @@ layout: default
     </tr>
 <table>
 
-<h2><b>Skills</b></h2>
+<h2 style="margin-bottom: 0;"><b>Skills</b></h2>
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 30%;">
