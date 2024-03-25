@@ -39,7 +39,7 @@ layout: default
       <td>PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
-      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">LinkedIn Profile</a></td>
+      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Degree Certificate</a></td>
     </tr>
 <table>
   
@@ -56,6 +56,7 @@ layout: default
       <td style="padding: 8px;">Data Scientist in Python</td>
       <td style="padding: 8px;">Dataquest</td>
       <td style="padding: 8px;">Present</td>
+      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Certificate of Completion</a></td>
     </tr>
 <table>
 
