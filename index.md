@@ -42,7 +42,6 @@ layout: default
     </tr>
 <table>
   
-<br>
 
 <h2><b>Courses</b></h2>
 
@@ -59,7 +58,6 @@ layout: default
     </tr>
 <table>
 
-<br>
 
 <h2><b>Skills</b></h2>
 
