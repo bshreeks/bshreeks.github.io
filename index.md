@@ -52,7 +52,7 @@ layout: default
   <tbody>
     <tr>
       <td style="padding: 8px;">Data Scientist in Python</td>
-      <td style="padding: 8px;">Dataquest</td>
+      <td style="padding: 4px;">Dataquest</td>
       <td style="padding: 8px;">Present</td>
       <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/">Certificate of Completion</a></td>
     </tr>
