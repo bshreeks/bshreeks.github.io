@@ -67,14 +67,14 @@ layout: default
   </colgroup>
   <tbody>
     <tr>
-      <td style="padding: 8px;">Python</td>
-      <td style="padding: 8px;">NumPy & Pandas</td>
-      <td style="padding: 8px;">Matplotlib & Seaborn</td>
+      <td style="padding: 5px;">Python</td>
+      <td style="padding: 5px;">NumPy & Pandas</td>
+      <td style="padding: 6px;">Matplotlib & Seaborn</td>
     </tr>
     <tr>
-      <td style="padding: 8px;">SQL</td>
-      <td style="padding: 8px;">SciPy</td>
-      <td style="padding: 8px;">Scikit-learn</td>
+      <td style="padding: 5px;">SQL</td>
+      <td style="padding: 5px;">SciPy</td>
+      <td style="padding: 5px;">Scikit-learn</td>
     </tr>
   </tbody>
 </table>
