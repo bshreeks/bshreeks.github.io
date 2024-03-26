@@ -26,7 +26,8 @@ layout: default
         <div class="text">
             <p>Bhagyashree KS Bhat</p>
             <p>bshreeks@gmail.com</p>
-            <p></p>
+            <p>https://www.linkedin.com/in/bhagyashreeks/</p>
+            <p>http://datayogi.unaux.com/</p>
         </div>
     </div>
 </body>
