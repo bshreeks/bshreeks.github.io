@@ -21,7 +21,6 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <p class="text">This is a paragraph on the left side of the image.</p>
         <img src="/assets/image/PP2.jpg" alt="Example Image">
         <p class="text">This is a paragraph on the right side of the image.</p>
     </div>
