@@ -158,9 +158,9 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <img src="/assets/images/Python_Programming.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
+        <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 200px; height: 200px;">
         <div class="text">
-            <p><strong>Bhagyashree KS Bhat</strong></p>
+            <a href="https://github.com/bshreeks/" target="_blank">Python Programming Exercises</a>
             <p>bshreeks@gmail.com</p>
             <p>https://www.linkedin.com/in/bhagyashreeks/</p>
             <p>https://github.com/bshreeks/</p>
