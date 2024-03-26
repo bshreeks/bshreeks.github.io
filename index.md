@@ -17,7 +17,7 @@ layout: default
             margin: 0; 
             flex: 1;
             padding: 0 20px; /* Adjust padding as needed */
-        }
+        }  
     </style>
 </head>
 <body>
@@ -33,6 +33,31 @@ layout: default
     </div>
 </body>
 </html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo with Text</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo {
+            margin-right: 20px; /* Adjust margin as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text">
+            <p>Bhagyashree KS Bhat</p>
+            <p>bshreeks@gmail.com</p>
+            <!-- Add more paragraphs as needed -->
+        </div>
+        <img src="logo.png" alt="Logo" class="logo">
+    </div>
+</body>
 
 <br>
 
