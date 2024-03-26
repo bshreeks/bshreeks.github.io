@@ -158,7 +158,7 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 200px; height: 200px;">
+        <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 250px; height: 200px;">
         <div class="text">
             <a href="https://github.com/bshreeks/Python-Programming-Exercises-" target="_blank">Python Programming Exercises</a>
             <p><strong>Problem Solving from Python Programming by John Zelle</strong></p>
