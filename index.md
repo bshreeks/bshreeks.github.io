@@ -22,7 +22,8 @@ layout: default
 <body>
     <div class="container">
         <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
-        <p class="text">This is a paragraph on the right side of the image.</p>
+        <p class="text">name: Bhagyashree KS Bhat</p>
+        <p class="text">email id: bshreeks@gmail.com</p>
     </div>
 </body>
 </html>
