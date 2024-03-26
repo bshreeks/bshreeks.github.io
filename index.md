@@ -56,7 +56,7 @@ layout: default
     <style>
         hr.thick {
             border: none;
-            background-color: #000; /* Line color */
+            background-color: #333333; /* Line color */
             height: 5px; /* Line thickness */
         }
     </style>
