@@ -83,6 +83,11 @@ layout: default
 
 <h2><b>Education</b></h2>
 <table style="border-collapse: collapse; width: 100%;">
+<style>
+  table {
+    background-color: #f0f0f0; /* Light grey background color */
+  }
+</style>
   <colgroup>
     <col style="width: 25%;">
     <col style="width: 40%;">
