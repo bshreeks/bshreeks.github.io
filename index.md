@@ -160,11 +160,8 @@ layout: default
     <div class="container">
         <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 200px; height: 200px;">
         <div class="text">
-            <a href="https://github.com/bshreeks/" target="_blank">Python Programming Exercises</a>
-            <p>bshreeks@gmail.com</p>
-            <p>https://www.linkedin.com/in/bhagyashreeks/</p>
-            <p>https://github.com/bshreeks/</p>
-            <p>www.datayogi.unaux.com/</p>
+            <a href="https://github.com/bshreeks/Python-Programming-Exercises-" target="_blank">Python Programming Exercises</a>
+            <p><strong>Problem Solving from Python Programming by John Zelle</strong></p>
         </div>
     </div>
 </body>
