@@ -137,3 +137,34 @@ layout: default
 </table>
 
 <h2><b>Projects</b></h2>
+
+<h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Paragraphs</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .text p {
+            margin: 0; 
+            flex: 1;
+            padding: 0 20px; /* Adjust padding as needed */
+        }  
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="/assets/images/Python_Programming.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
+        <div class="text">
+            <p><strong>Bhagyashree KS Bhat</strong></p>
+            <p>bshreeks@gmail.com</p>
+            <p>https://www.linkedin.com/in/bhagyashreeks/</p>
+            <p>https://github.com/bshreeks/</p>
+            <p>www.datayogi.unaux.com/</p>
+        </div>
+    </div>
+</body>
