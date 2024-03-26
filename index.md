@@ -1,6 +1,34 @@
 ---
 layout: default
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Paragraphs</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .text {
+            flex: 1;
+            padding: 0 20px; /* Adjust padding as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="text">This is a paragraph on the left side of the image.</p>
+        <img src="/assets/image/PP2.jpg" alt="Example Image">
+        <p class="text">This is a paragraph on the right side of the image.</p>
+    </div>
+</body>
+</html>
+
+
 <head>
   <title>Data Science Odyssey</title>
   <style>
