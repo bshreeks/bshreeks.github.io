@@ -21,13 +21,14 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 150px; height: 150px;">
+        <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
         <p class="text">This is a paragraph on the right side of the image.</p>
     </div>
 </body>
 </html>
 
 
+<!--
 <head>
   <title>Data Science Odyssey</title>
   <style>
@@ -47,6 +48,7 @@ layout: default
   <!-- Subtitle -->
   <p class="center"><b>Embark on a Journey of Data Exploration, Analysis, and Visualization</b></p>
 </body>
+-->
 
 <br>
 
