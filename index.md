@@ -27,29 +27,6 @@ layout: default
 </body>
 </html>
 
-
-<!--
-<head>
-  <title>Data Science Odyssey</title>
-  <style>
-    /* CSS code to center the heading */
-    .center {
-      text-align: center;
-    }
-    /* CSS code to adjust the font size of the subtitle */
-    .p {
-      font-size: 22px; /* Change the font size to 14 pixels */
-    }
-  </style>
-</head>
-<body>
-  <!-- Heading centered using CSS -->
-  <h1 class="center">A Data Science Odyssey</h1>
-  <!-- Subtitle -->
-  <p class="center"><b>Embark on a Journey of Data Exploration, Analysis, and Visualization</b></p>
-</body>
--->
-
 <br>
 
 <body><b>Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects in my portfolio.</b></body>
