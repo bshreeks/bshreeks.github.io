@@ -85,7 +85,7 @@ layout: default
 <table style="border-collapse: collapse; width: 100%;">
 <style>
   table {
-    background-color: white; /* Light grey background color */
+    background-color: white; 
   }
 </style>
   <colgroup>
