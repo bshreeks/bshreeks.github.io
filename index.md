@@ -48,15 +48,21 @@ layout: default
         }
     </style>
 </head>
+</html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thick Line</title>
+    <style>
+        hr.thick {
+            border: none;
+            background-color: #000; /* Line color */
+            height: 5px; /* Line thickness */
+        }
+    </style>
+</head>
 <body>
-    <div class="container">
-        <div class="text">
-            <p>Bhagyashree KS Bhat</p>
-            <p>bshreeks@gmail.com</p>
-            <!-- Add more paragraphs as needed -->
-        </div>
-        <img src="logo.png" alt="Logo" class="logo">
-    </div>
+    <hr class="thick">
 </body>
 
 <br>
