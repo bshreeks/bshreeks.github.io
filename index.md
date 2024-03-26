@@ -24,7 +24,7 @@ layout: default
     <div class="container">
         <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
         <div class="text">
-            <p>Bhagyashree KS Bhat</p>
+            <p><b>Bhagyashree KS Bhat</b></p>
             <p>bshreeks@gmail.com</p>
             <p>https://www.linkedin.com/in/bhagyashreeks/</p>
             <p>https://github.com/bshreeks/</p>
