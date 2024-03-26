@@ -21,7 +21,7 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <img src="https://github.com/bshreeks/bshreeks.github.io/blob/main/assets/images/PP2.jpg" alt="Example Image">
+        <img src="https://github.com/bshreeks/bshreeks.github.io/blob/main/assets/images/PP2.jpg" alt="profile_pic", style="width: 200px; height: 150px;">
         <p class="text">This is a paragraph on the right side of the image.</p>
     </div>
 </body>
