@@ -66,8 +66,17 @@ layout: default
 </body>
 
 <br>
-
-<body><b>Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects in my portfolio.</b></body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadowed Paragraph</title>
+    <style>
+        .shadowed-paragraph {
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Horizontal offset, vertical offset, blur radius, color */
+        }
+    </style>
+</head>
+<body><b><p class="shadowed-paragraph">Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects in my portfolio.</p></b></body>
 
 
 <h2><b>Education</b></h2>
