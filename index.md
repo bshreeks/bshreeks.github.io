@@ -27,7 +27,8 @@ layout: default
             <p>Bhagyashree KS Bhat</p>
             <p>bshreeks@gmail.com</p>
             <p>https://www.linkedin.com/in/bhagyashreeks/</p>
-            <p>http://datayogi.unaux.com/</p>
+            <p>https://github.com/bshreeks/</p>
+            <p>www.datayogi.unaux.com/</p>
         </div>
     </div>
 </body>
