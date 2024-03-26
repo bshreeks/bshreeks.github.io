@@ -22,10 +22,12 @@ layout: default
 <body>
     <div class="container">
         <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
-        <div class="multiline">
-        Bhagyashree KS Bhat
-        bshreeks@gmail.com
+        <div class="text">
+            <p>Bhagyashree KS Bhat</p>
+            <p>bshreeks@gmail.com</p>
+            <p></p>
         </div>
+    </div>
 </body>
 </html>
 
