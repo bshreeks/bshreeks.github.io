@@ -14,6 +14,7 @@ layout: default
         }
 
         .text {
+            margin: 0; 
             flex: 1;
             padding: 0 20px; /* Adjust padding as needed */
         }
