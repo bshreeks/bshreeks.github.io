@@ -162,8 +162,8 @@ layout: default
         <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
-            <p><strong>Python Programming: An Introduction to Computer Science</strong></p>
-            <i></i>
+            <p><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
+            <i>I have organized my programming exercise solutions into separate sections, each corresponding to the chapters of the textbook</i>
         </div>
     </div>
 </body>
