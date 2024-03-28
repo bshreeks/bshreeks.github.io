@@ -137,7 +137,20 @@ layout: default
 </table>
 
 <h2><b>Projects</b></h2>
-<span style="font-weight: bold; color: black;">Python</span>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smooth Block</title>
+<style>
+    .smooth-block {
+        display: inline-block;
+        padding: 10px;
+        background-color: lightblue;
+        border-radius: 10px; /* Adjust the value to change the roundness */
+    }
+</style>
+</head>
+<span class="smooth block"; style="font-weight: bold; color: black;">Python</span>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
