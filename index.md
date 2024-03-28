@@ -162,7 +162,8 @@ layout: default
         <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
-            <p><strong>Problem Solving from Python Programming by John Zelle</strong></p>
+            <p><strong>Python Programming: An Introduction to Computer Science</strong></p>
+            <i></i>
         </div>
     </div>
 </body>
