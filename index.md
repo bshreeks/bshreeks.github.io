@@ -137,6 +137,8 @@ layout: default
 </table>
 
 <h2><b>Projects</b></h2>
+<span style="font-weight: bold; color: maroon;">Python</span>
+
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
 <head>
