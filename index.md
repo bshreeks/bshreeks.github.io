@@ -163,7 +163,7 @@ layout: default
         </a>
         <div class="text">
             <p><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
-            <i>I have organized my programming exercise solutions into separate sections, each corresponding to the chapters of the textbook</i>
+            <p><i>I have organized my programming exercise solutions into separate sections, each corresponding to the chapters of the textbook</i></p>
         </div>
     </div>
 </body>
