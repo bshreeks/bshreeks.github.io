@@ -150,7 +150,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block"; style="font-weight: bold; color: black;">Python</span>
+<span class="smooth-block" style="font-weight: bold; color: black;">Python</span>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
