@@ -144,9 +144,9 @@ layout: default
 <style>
     .smooth-block {
         display: inline-block;
-        padding: 10px;
+        padding: 8px;
         background-color: lightred;
-        border-radius: 10px; /* Adjust the value to change the roundness */
+        border-radius: 8px; /* Adjust the value to change the roundness */
     }
 </style>
 </head>
