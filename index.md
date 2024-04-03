@@ -145,12 +145,12 @@ layout: default
     .smooth-block {
         display: inline-block;
         padding: 8px;
-        background-color: maroon;
+        background-color: white;
         border-radius: 8px; /* Adjust the value to change the roundness */
     }
 </style>
 </head>
-<span class="smooth-block" style="font-weight: bold;">Python</span>
+<span class="smooth-block";">Introductory Python: Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
