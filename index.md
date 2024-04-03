@@ -150,7 +150,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block";">Introductory Python: Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+<span class="smooth-block">Introductory Python: Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
