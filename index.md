@@ -225,7 +225,7 @@ layout: default
         </a>
         <div class="text">
             <p><strong>Exploring Hacker News Posts</strong></p>
-            <p><i>In this project we worked with a company that builds free Android and iOS apps, which are free to download and install. The main revenue of the company is from in-app adds. Our objective in here is to help the developers understand what type of apps attract more users and are more profitable. We have come up with a list of genres for apps which can be profitable to both the app stores.</i></p>
+            <p><i></i></p>
         </div>
     </div>
 </body>
