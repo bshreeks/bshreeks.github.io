@@ -150,7 +150,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block"><b>Part-1a:Introductory Python:</b> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+<span class="smooth-block"><b>Part-1a:Introductory Python for DataScience:</b> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 <head>
     <meta charset="UTF-8">
@@ -180,6 +180,20 @@ layout: default
         </div>
     </div>
 </body>
+
+<title>Smooth Block</title>
+<style>
+    .smooth-block {
+        display: inline-block;
+        padding: 8px;
+        background-color: white;
+        border-radius: 8px; /* Adjust the value to change the roundness */
+    }
+</style>
+</head>
+<span class="smooth-block"><b>Part-1b:Intermediate Python for DataScience:</b> Cleaning & Preparing Data, Basic Data Analysis, Object Oriented Python, Dates & Times etc.</span>
+
+<head>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
