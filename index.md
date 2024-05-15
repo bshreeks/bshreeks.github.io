@@ -181,6 +181,8 @@ layout: default
     </div>
 </body>
 
+
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -194,6 +196,7 @@ layout: default
         border-radius: 8px; /* Adjust the value to change the roundness */
     }
 </style>
+</head>
 
 
 
