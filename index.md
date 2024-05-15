@@ -77,7 +77,7 @@ layout: default
     </style>
 </head>
 
-<body><b><q class="shadowed-paragraph">Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects nad programming skills in here.</q></b></body>
+<body><b><q class="shadowed-paragraph">Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects and programming skills in here.</q></b></body>
 
 <br>
 
