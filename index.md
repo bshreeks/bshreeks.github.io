@@ -181,7 +181,7 @@ layout: default
     </div>
 </body>
 
-<br>
+<hr style="border-color: grey; border-width: 2px;">
 
 
 <head>
