@@ -183,9 +183,6 @@ layout: default
 
 <br>
 
-<svg width="200" height="200">
-  <path d="M 10 80 Q 95 10 180 80" stroke="black" fill="transparent"/>
-</svg>
 
 <head>
 <meta charset="UTF-8">
