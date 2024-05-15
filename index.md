@@ -220,11 +220,12 @@ layout: default
 </head>
 <body>
     <div class="container">
-        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
-            <!-- Your paragraphs here -->
+            <p><strong>Exploring Hacker News Posts</strong></p>
+            <p><i>In this project we worked with a company that builds free Android and iOS apps, which are free to download and install. The main revenue of the company is from in-app adds. Our objective in here is to help the developers understand what type of apps attract more users and are more profitable. We have come up with a list of genres for apps which can be profitable to both the app stores.</i></p>
         </div>
     </div>
 </body>
