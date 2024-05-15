@@ -190,10 +190,7 @@ layout: default
         border-radius: 8px; /* Adjust the value to change the roundness */
     }
 </style>
-</head>
-<span class="smooth-block"><b>Part-1b:Intermediate Python for DataScience:</b> Cleaning & Preparing Data, Basic Data Analysis, Object Oriented Python, Dates & Times etc.</span>
 
-<head>
 
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
