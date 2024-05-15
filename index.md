@@ -196,7 +196,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block"><strong><u>Part-2a:Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
+<span class="smooth-block"><strong><u>Part-1b:Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
 
 
 
