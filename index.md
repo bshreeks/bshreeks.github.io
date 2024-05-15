@@ -150,7 +150,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block"><strong>Part-1a:Introductory Python for DataScience:</strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+<span class="smooth-block"><strong><u>Part-1a:Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 <head>
     <meta charset="UTF-8">
@@ -196,7 +196,7 @@ layout: default
     }
 </style>
 </head>
-<span class="smooth-block"><strong>Part-2a:Intermediate Python for DataScience:</strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+<span class="smooth-block"><strong><u>Part-2a:Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
 
 
 
