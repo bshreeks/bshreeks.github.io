@@ -1,5 +1,6 @@
 
-<body>Hi I am Shree, a physicist with a doctorate in Physics. After taking a break to raise my family, I’ve embarked on an exciting journey into the world of data science through Dataquest. I am eager to showcase my projects in my portfolio.</body>
+<body>Hi, I am Shree, mother of two wonderful kids. After taking a career break to raise my family, I’ve embarked on a new journey into the world of data science. I started by learning Python for scientific analysis and explored data science through platforms like ‘dataquest.’ Additionally, I delved deeper into Python using resources like ‘Python Programming: An Introduction to Computer Science’ by John Zelle and ‘Python for Data Analysis’ by Wes McKinney. Currently, I’m immersing myself in ‘Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow’ by Aurélien Géron.
+Data Science has significantly enriched my professional career, keeping my aspirations alive. I find great enjoyment in coding, problem-solving, and working on various projects. Below, I present my certificates, solutions to coding challenges, and projects I've completed, as I embark on a new journey of job hunting.</body>
 
 <br>
 
