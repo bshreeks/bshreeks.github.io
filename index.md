@@ -255,13 +255,11 @@ Data Science has significantly enriched my professional career, keeping my aspir
     </section>
 </body>
 
-</head>
 <span class="smooth-block"><strong><u>Introduction to Pandas and Numpy for Data Analysis:</u></strong> Numpy, Pandas, Data Exploration, Data Cleaning etc.</span>
 
-<head>
 
 
-
+<br>
 
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
 <head>
