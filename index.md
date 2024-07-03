@@ -200,15 +200,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Smooth Block</title>
-<style>
-    .smooth-block {
-        display: inline-block;
-        padding: 8px;
-        background-color: white;
-        border-radius: 8px; /* Adjust the value to change the roundness */
-    }
-</style>
+
 </head>
 <span class="smooth-block"><strong><u>Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
 
