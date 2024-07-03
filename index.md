@@ -146,9 +146,9 @@ Data Science has significantly enriched my professional career, keeping my aspir
     <title>Heading in a Block Example</title>
 </head>
 <body>
-    <div>
+    <section>
         <h3>Part 1: Python</h3>
-    </div>
+    </section>
 </body>
 
 
