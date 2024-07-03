@@ -162,7 +162,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
     }
 </style>
 </head>
-<span class="smooth-block"><strong><u>Part-1a:Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+<span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 <head>
     <meta charset="UTF-8">
@@ -210,7 +210,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
     }
 </style>
 </head>
-<span class="smooth-block"><strong><u>Part-1b:Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
+<span class="smooth-block"><strong><u>Intermediate Python for DataScience:</u></strong> Data Cleaning, Basic Data Analysis, Object Oriented Programming, Python Dates & Times etc.</span>
 
 <head>
     <meta charset="UTF-8">
