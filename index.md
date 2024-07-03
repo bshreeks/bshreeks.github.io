@@ -259,8 +259,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
 
 
 
-<br>
-
+<br><br>
 <h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
 <head>
     <meta charset="UTF-8">
