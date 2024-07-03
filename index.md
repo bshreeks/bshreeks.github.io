@@ -141,6 +141,17 @@ Data Science has significantly enriched my professional career, keeping my aspir
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <head>
+    <title>Heading in a Block Example</title>
+</head>
+<body>
+    <article>
+        <h3>Part 1</h3>
+    </article>
+</body>
+
+
 <title>Smooth Block</title>
 <style>
     .smooth-block {
