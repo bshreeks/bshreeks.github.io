@@ -193,8 +193,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
     </div>
 </body>
 
-<hr style="border-color: black; border-width: 4px;">
-<br>
+
 
 
 <head>
