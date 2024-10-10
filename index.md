@@ -267,7 +267,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
 </head>
 <body>
     <div class="container">
-        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/ebay_car_sales.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
         <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
