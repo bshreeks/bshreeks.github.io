@@ -248,6 +248,35 @@ Data Science has significantly enriched my professional career, keeping my aspir
 
 <span class="smooth-block"><strong><u>Introduction to Pandas and Numpy for Data Analysis:</u></strong> Numpy, Pandas, Data Exploration, Data Cleaning etc.</span>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Paragraphs</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .text p {
+            margin: 0; 
+            flex: 1;
+            padding: 0 20px; /* Adjust padding as needed */
+        }  
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/ebay_car_sales.ipynb" target="_blank">
+        <img src="/assets/images/AppStore.jpg" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <div class="text">
+            <p><strong>Exploring ebay Car Sales Data</strong></p>
+            <p><i>In this project we worked with a company that builds free Android and iOS apps, which are free to download and install. The main revenue of the company is from in-app adds. Our objective in here is to help the developers understand what type of apps attract more users and are more profitable. We have come up with a list of genres for apps which can be profitable to both the app stores.</i></p>
+        </div>
+    </div>
+</body>
+
 
 
 <br><br>
