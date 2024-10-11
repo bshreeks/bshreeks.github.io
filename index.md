@@ -277,6 +277,8 @@ Data Science has significantly enriched my professional career, keeping my aspir
     </div>
 </body>
 
+<span class="smooth-block"><strong><u>Introduction to Data Visualization in Python:</u></strong>Line Plot, Scatter Plot, Bar Plot, Histograms, Pandas Visualization, Time Series, Coreelations, Grid Charts, Relational Plots etc.</span>
+
 
 
 <br><br>
