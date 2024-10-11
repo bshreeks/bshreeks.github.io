@@ -272,7 +272,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
         </a>
         <div class="text">
             <p><strong>Exploring ebay Car Sales Data</strong></p>
-            <p><i>In this project we worked with the dataset with 50000 data points comprising the details of used cars from "eBay Kelenanzeigen", a classified section of German eBay website. The objective of the project is data cleaning and data analysis using 'pandas dataframe'. In this project we explored the car price by brand, we found that with increase in mean mileage mean price also increases, we found the most common brand & model combinations and the relation between price and damage/non-damage of the cars.</i></p>
+            <p><i>In this project we worked with the dataset with 50000 data points comprising the details of used cars from "eBay Kelenanzeigen", a classified section of German eBay website. The objective of the project is data cleaning and data analysis using 'pandas'. In this project we explored the car price by brand, we found that with increase in mean mileage mean price also increases, we found the most common brand & model combinations and the relation between price and damage/non-damage of the cars.</i></p>
         </div>
     </div>
 </body>
