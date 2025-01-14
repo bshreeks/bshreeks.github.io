@@ -302,7 +302,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
             <p><strong>Finding Heavy Westbound Traffic Indicators on I-94 Interstate Highway</strong></p>
             <p><i>In this project we determined the indicators of heavy westbound traffic on I-94 highway. The data consisted of ~ 50000 rows and 9 columns ike day, temperature, weather type, time of the day, traffic volume etc. The objective of the project was to find out the cause of heavy traffic during the day. Addition to this we have also analysed the night time traffic.</i></p>
         </div>
-        <a href="[https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News.ipynb](https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb)" target="_blank">
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb" target="_blank">
             <img src="/assets/images/I94.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
     </div>
