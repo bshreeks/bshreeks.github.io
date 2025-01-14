@@ -227,7 +227,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
             <p><strong>Exploring Hacker News Posts</strong></p>
             <p><i>In this project we performed detailed analysis on the Hacker News Posts dataset (Hacker News is a site started by startup Y combinator). We analysed Ask HN & Show HN posts compared to other posts, in order to understand what kind of posts get more comments and what are the best times to post any comments to get responses.</i></p>
         </div>
-        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
     </div>
