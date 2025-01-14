@@ -307,10 +307,9 @@ Data Science has significantly enriched my professional career, keeping my aspir
         </a>
     </div>
 </body>
+<span class="smooth-block"><strong><u>Telling Stories Using Data Visualization & Information:</u></strong> Line Plot, Scatter Plot, Bar Plot, Histograms, Pandas Visualization, Time Series, Correlations, Grid Charts, Relational Plots etc.</span>
 
-<hr style="border-color: black; border-width: 4px;">
 
-<br>
 
 
 
