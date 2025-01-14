@@ -307,7 +307,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
         </a>
     </div>
 </body>
-<span class="smooth-block"><strong><u>Telling Stories Using Data Visualization & Information:</u></strong> Story Telling Data Visualization, Gestalt Principles, Matplotlib Styles etc.</span>
+<span class="smooth-block"><strong><u>Telling Stories Using Data Visualization & Information:</u></strong> Information Design Principle, Story Telling Data Visualization with Matplotlib, Creating Visual Patterns using Gestalt Principles, Pre-Attentive Attributes, Matplotlib Styles etc.</span>
 
 
 
