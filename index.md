@@ -307,7 +307,36 @@ Data Science has significantly enriched my professional career, keeping my aspir
         </a>
     </div>
 </body>
-<span class="smooth-block"><strong><u>Telling Stories Using Data Visualization & Information:</u></strong> Information Design Principle (Maximizing the Data-Ink Ratio), Story Telling Data Visualization with Matplotlib, Creating Visual Patterns using Gestalt Principles, Pre-Attentive Attributes, Matplotlib Styles etc.</span>
+<span class="smooth-block"><strong><u>Storytelling Using Data Visualization & Information:</u></strong> Information Design Principle (Maximizing the Data-Ink Ratio), Story Telling Data Visualization with Matplotlib, Creating Visual Patterns using Gestalt Principles, Pre-Attentive Attributes, Matplotlib Styles etc.</span>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Paragraphs</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .text p {
+            margin: 0; 
+            flex: 1;
+            padding: 0 20px; /* Adjust padding as needed */
+        }  
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Storytelling_Data_Visualization.ipynb" target="_blank">
+        <img src="/assets/images/currency_logo.png" alt="currency_logo" style="width: 250px; height: 200px;">
+        </a>
+        <div class="text">
+            <p><strong>Storytelling Data Visualization on Exchange Rates Between Euro & Other Currencies</strong></p>
+            <p><i>In this project we visualized variation of exchange rates between euro (official currency of most of the countries in the European union) and US Dollar as well as currencies of various other countries between the years 1999 and 2021. The dataset consisted of 5699 rows and 41 columns. As this project is about explanatory data visualization, we used matplotlib's design principles and styles to achieve our goals. We have found interesting insights from our analysis.</i></p>
+        </div>
+    </div>
+</body>
+
 
 
 
