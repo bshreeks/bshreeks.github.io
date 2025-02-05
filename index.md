@@ -340,6 +340,16 @@ Data Science has significantly enriched my professional career, keeping my aspir
 <br>
 
 
+<head>
+    <title>Heading in a Block Example</title>
+</head>
+<body>
+    <section>
+        <h3>Part 3: Data Cleaning</h3>
+    </section>
+</body>
+
+<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Numpy, Pandas, Data Exploration, Data Cleaning etc.</span>
 
 
 
