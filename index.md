@@ -38,6 +38,18 @@ layout: default
             </style>
             </head>
             
+            <a href="mailto:bshreeks@gmail.com" target="_blank">
+            <i class="fas fa-envelope icon"></i>
+            </a>
+            <a href="https://github.com/bshreeks/" target="_blank">
+             <i class="fab fa-github icon"></i>
+             </a>
+             <a href="https://www.linkedin.com/in/bhagyashreeks" target="_blank">
+             <i class="fab fa-linkedin icon"></i>
+             </a>
+
+            
+            
             <p style="text-align: center;">bshreeks@gmail.com <i class="fas fa-envelope icon"></i></p>            
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i></p>
             <p style="text-align: center;">
