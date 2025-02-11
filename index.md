@@ -38,7 +38,7 @@ layout: default
             </style>
             </head>                      
             
-            <p style="text-align: center;">
+            <p style="text-align: center; color: red;">
             <a href = "bshreeks@gmail.com" target="_blank"> 
             bshreeks@gmail.com <i class="fas fa-envelope icon"></i>
             </a>            
