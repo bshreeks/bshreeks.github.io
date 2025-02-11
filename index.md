@@ -33,13 +33,13 @@ layout: default
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
             <style>
              .icon{
-               color = black:
+               color = black;
                }
             </style>
             </head>
             
             <p style="text-align: center;">bshreeks@gmail.com <i class="fas fa-envelope icon"></i></p>            
-            <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>/</p>
+            <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i></p>
             <p style="text-align: center;">https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i></p>
         </div>
     </div>
