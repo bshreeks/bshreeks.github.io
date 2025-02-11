@@ -32,23 +32,14 @@ layout: default
             <!-- Include Font Awesome(logos link -->
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
             <style>
+             .text{
+               color: red
+               }
              .icon{
                color : black;
                }
             </style>
-            </head>
-            
-            <a href="mailto:bshreeks@gmail.com" target="_blank">
-            <i class="fas fa-envelope icon"></i>
-            </a>
-            <a href="https://github.com/bshreeks/" target="_blank">
-             <i class="fab fa-github icon"></i>
-             </a>
-             <a href="https://www.linkedin.com/in/bhagyashreeks" target="_blank">
-             <i class="fab fa-linkedin icon"></i>
-             </a>
-
-            
+            </head>                      
             
             <p style="text-align: center;">bshreeks@gmail.com <i class="fas fa-envelope icon"></i></p>            
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i></p>
