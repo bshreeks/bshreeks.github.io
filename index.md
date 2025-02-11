@@ -134,7 +134,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
       <td>PhD in Physics</td>
       <td style="padding: 8px;">Indian Institute of Science, Bangalore,India</td>
       <td style="padding: 8px;">2016</td>
-      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/" target="_blank">Degree Certificate</a></td>
+      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/" target="_blank" class="custom_color">Degree Certificate</a></td>
     </tr>
 <table>
 
@@ -149,7 +149,7 @@ Data Science has significantly enriched my professional career, keeping my aspir
       <td style="padding: 8px;">Data Scientist in Python</td>
       <td style="padding: 8px;">Dataquest</td>
       <td style="padding: 8px;">Present</td>
-      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/" target="_blank">Certificate of Completion</a></td>
+      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/bhagyashreeks/" target="_blank" class="custom_color">Certificate of Completion</a></td>
     </tr>
 <table>
 
