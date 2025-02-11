@@ -27,13 +27,18 @@ layout: default
             <p style="font-size: 22px; text-align: center;"><strong>Bhagyashree Bhat</strong></p>
             <p style="color: black;">Data Scientist, Machine Learning Student & Physist</p> 
             <hr style="height= 20x; background-color= black; border=none;">
-            <p style="text-align: center;">bshreeks@gmail.com &#9993;</p>
-            
+
             <head>
             <!-- Include Font Awesome(logos link -->
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+            <style>
+             .icon{
+               color = black:
+               }
+            </style>
             </head>
             
+            <p style="text-align: center;">bshreeks@gmail.com <i class="fas fa-envelope icon"></i></p>            
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>/</p>
             <p style="text-align: center;">https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i></p>
         </div>
