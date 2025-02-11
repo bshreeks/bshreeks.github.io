@@ -40,7 +40,11 @@ layout: default
             
             <p style="text-align: center;">bshreeks@gmail.com <i class="fas fa-envelope icon"></i></p>            
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i></p>
-            <p style="text-align: center;">https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i></p>
+            <p style="text-align: center;">
+            <a href="https://github.com/bshreeks/" target="_blank">
+             https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
+            </a>
+            </p>
         </div>
     </div>
 </body>
