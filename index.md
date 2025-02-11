@@ -42,11 +42,11 @@ layout: default
             <a href = "bshreeks@gmail.com" target="_blank"> 
             bshreeks@gmail.com <i class="fas fa-envelope icon"></i>
             </a>            
-            <a href = "linkedin.com/in/bhagyashreeks" target="_blank">
-            https://www.linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>
+            <a href = "https://www.linkedin.com/in/bhagyashreeks" target="_blank">
+            linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>
             </a>
-            <a href="github.com/bshreeks" target="_blank">
-             https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
+            <a href="https:/github.com/bshreeks" target="_blank">
+             /github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
             </a>
             </p>
         </div>
