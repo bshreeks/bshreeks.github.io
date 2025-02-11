@@ -25,7 +25,7 @@ layout: default
         <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
         <div class="text">
             <p style="font-size: 22px; text-align: center;"><strong>Bhagyashree Bhat</strong></p>
-            <p style="color: black; margin-bottom: 0;">Data Scientist, Machine Learning Student & Physist</p> 
+            <p style="color: black; margin-bottom: 2;">Data Scientist, Machine Learning Student & Physist</p> 
             <p style="text-align: center;">bshreeks@gmail.com &#9993;</p>
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks &#128279;/</p>
             <p style="text-align: center;">https://github.com/bshreeks/ &#128025;</p>
