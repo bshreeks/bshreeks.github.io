@@ -29,6 +29,10 @@ layout: default
             <hr style="height= 20x; background-color= black; border=none;">
             <p style="text-align: center;">bshreeks@gmail.com &#9993;</p>
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks &#128279;/</p>
+            <head>
+            <!-- Include Font Awesome(github logo -->
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+            </head>
             <p style="text-align: center;">https://github.com/bshreeks/ <i class="fab fa-github github-icon"></i></p>
         </div>
     </div>
