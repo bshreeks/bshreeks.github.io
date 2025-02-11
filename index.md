@@ -25,7 +25,7 @@ layout: default
         <img src="/assets/images/PP2.jpg" alt="profile_pic" style="width: 180px; height: 150px;">
         <div class="text">
             <p style="font-size: 22px; text-align: center;"><strong>Bhagyashree Bhat</strong></p>
-            <p style="color: black;">Data Scientist, Machine Learning Student & Physist</p> 
+            <p style="color: grey;">Data Scientist, Machine Learning Student & Physist</p> 
             <hr style="height= 20x; background-color= black; border=none;">
 
             <head>
@@ -36,7 +36,7 @@ layout: default
               color : maroon
               }
              .icon{
-               color : black;
+               color : grey;
                }
             </style>
             </head>                      
