@@ -33,7 +33,7 @@ layout: default
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
             <style>
              .text-red{
-              color : red
+              color : maroon
               }
              .icon{
                color : black;
@@ -49,13 +49,13 @@ layout: default
             
             <p style="text-align: center; color: red;">
             <a href = "https://www.linkedin.com/in/bhagyashreeks" target="_blank" class="text-red">
-            linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>
+            linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin icon"></i>
             </a>
             </p>
             
             <p style="text-align: center; color: red;">
             <a href="https:/github.com/bshreeks" target="_blank" class="text-red">
-             github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
+             github.com/bshreeks/ <i class="fab fa-github icon"></i>
             </a>
             </p>
         </div>
