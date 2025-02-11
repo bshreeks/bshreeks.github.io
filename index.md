@@ -26,9 +26,9 @@ layout: default
         <div class="text">
             <p style="font-size: 22px; text-align: center;"><strong>Bhagyashree Bhat</strong></p>
             <p style="color: black;">Data Scientist, Machine Learning Student & Physist</p> 
-            <p style="text-align: center;">bshreeks@gmail.com</p>
-            <pstyle="text-align: center;">https://www.linkedin.com/in/bhagyashreeks/</p>
-            <pstyle="text-align: center;">https://github.com/bshreeks/</p>
+            <p style="text-align: center;">bshreeks@gmail.com &#9993;</p>
+            <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks &#128279;/</p>
+            <p style="text-align: center;">https://github.com/bshreeks/ &#128025;</p>
         </div>
     </div>
 </body>
