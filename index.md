@@ -26,7 +26,7 @@ layout: default
         <div class="text">
             <p style="font-size: 22px; text-align: center;"><strong>Bhagyashree Bhat</strong></p>
             <p style="color: black;">Data Scientist, Machine Learning Student & Physist</p> 
-            <hr class = "thick-line" style="height= 20x; background-color= black;">
+            <hr style="height= 20x; background-color= black; border=none;">
             <p style="text-align: center;">bshreeks@gmail.com &#9993;</p>
             <p style="text-align: center;">https://www.linkedin.com/in/bhagyashreeks &#128279;/</p>
             <p style="text-align: center;">https://github.com/bshreeks/ &#128025;</p>
