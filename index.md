@@ -121,6 +121,9 @@ Data Science has significantly enriched my professional career, keeping my aspir
   table {
     background-color: white; 
   }
+  .custom_color{
+      color: maroon
+      }
 </style>
   <colgroup>
     <col style="width: 25%;">
