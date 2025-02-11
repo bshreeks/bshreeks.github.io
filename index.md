@@ -32,6 +32,9 @@ layout: default
             <!-- Include Font Awesome(logos link -->
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
             <style>
+             .text-red{
+              color : red
+              }
              .icon{
                color : black;
                }
@@ -39,20 +42,20 @@ layout: default
             </head>                      
             
             <p style="text-align: center; color: red;">
-            <a href = "bshreeks@gmail.com" target="_blank"> 
+            <a href = "bshreeks@gmail.com" target="_blank" class="text-red"> 
             bshreeks@gmail.com <i class="fas fa-envelope icon"></i>
             </a>
             </p>
             
             <p style="text-align: center; color: red;">
-            <a href = "https://www.linkedin.com/in/bhagyashreeks" target="_blank">
+            <a href = "https://www.linkedin.com/in/bhagyashreeks" target="_blank" class="text-red">
             linkedin.com/in/bhagyashreeks <i class="fab fa-linkedin linkedin-icon"></i>
             </a>
             </p>
             
             <p style="text-align: center; color: red;">
-            <a href="https:/github.com/bshreeks" target="_blank">
-             /github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
+            <a href="https:/github.com/bshreeks" target="_blank" class="text-red">
+             github.com/bshreeks/ <i class="fab fa-github github-icon"></i>
             </a>
             </p>
         </div>
