@@ -94,7 +94,7 @@ layout: default
     <hr class="thick">
 </body>
 
-<br>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -107,7 +107,7 @@ layout: default
 </head>
 
 <body><b><p style= "font-size: 17px; color: black;" class="shadowed-paragraph"><em>Hi, I am Shree, Physisist by qualification. After taking a career break to raise my family, I’ve embarked on a new journey into the world of data science. I started by learning Python for scientific analysis and explored data science through platforms like ‘udemy’, ‘dataquest’. Additionally, I delved deeper into Python using resources like ‘Python Programming: An Introduction to Computer Science’ by John Zelle and ‘Python for Data Analysis’ by Wes McKinney. Currently, I’m immersing myself in ‘Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow’ by Aurélien Géron. Data Science has significantly enriched my professional career, keeping my aspirations alive. I find great enjoyment in coding, problem-solving, and working on various projects. Below, I present my certificates, solutions to coding challenges, and projects I've completed.</em></p></b></body>
-<br>
+
 <body>
     <hr class="thick">
 </body>
