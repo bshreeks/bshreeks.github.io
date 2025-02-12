@@ -112,9 +112,8 @@ layout: default
     <hr class="thick">
 </body>
 
-<br>
 
-<h2><b>Education</b></h2>
+<h3><b>Education</b></h3>
 <table style="border-collapse: collapse; width: 100%;">
 <style>
   table {
