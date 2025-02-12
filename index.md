@@ -384,7 +384,7 @@ layout: default
     </section>
 </body>
 
-<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, aggregation with pivot_table), etc.</span>
+<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, aggregation with pivot_table), Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
 
 
 
