@@ -136,7 +136,7 @@ layout: default
     </tr>
 <table>
 
-<h4 style="margin-bottom: 0;"><b>Courses</b></h4>
+<h4><b>Courses</b></h4>
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 35%;">
@@ -151,7 +151,7 @@ layout: default
     </tr>
 <table>
 
-<h4 style="margin-bottom: 0;"><b>Skills</b></h4>
+<h4><b>Skills</b></h4>
 <table style="border-collapse: collapse; width: 100%;">
   <colgroup>
     <col style="width: 30%;">
