@@ -114,7 +114,7 @@ layout: default
 
 
 <h4><b>Education</b></h4>
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; margin-top: 0;">
 <style>
   table {
     background-color: white; 
