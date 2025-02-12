@@ -113,7 +113,7 @@ layout: default
 </body>
 
 
-<h4><b>Education</b></h4>
+<h4 style="margin-bottom:0;"><b>Education</b></h4>
 <table style="border-collapse: collapse; width: 100%; margin-top: 0;">
 <style>
   table {
@@ -136,8 +136,8 @@ layout: default
     </tr>
 <table>
 
-<h4><b>Courses</b></h4>
-<table style="border-collapse: collapse; width: 100%;">
+<h4 style="margin-bottom:0;"><b>Courses</b></h4>
+<table style="border-collapse: collapse; width: 100%; margin-top: 0;">
   <colgroup>
     <col style="width: 35%;">
     <col style="width: 15%;">
@@ -151,8 +151,8 @@ layout: default
     </tr>
 <table>
 
-<h4><b>Skills</b></h4>
-<table style="border-collapse: collapse; width: 100%;">
+<h4 style="margin-bottom:0;"><b>Skills</b></h4>
+<table style="border-collapse: collapse; width: 100%; margin-top: 0;">
   <colgroup>
     <col style="width: 30%;">
     <col style="width: 30%;">
