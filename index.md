@@ -171,6 +171,8 @@ layout: default
   </tbody>
 </table>
 
+
+
 <h2><b>Projects</b></h2>
 <head>
 <meta charset="UTF-8">
