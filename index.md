@@ -113,7 +113,7 @@ layout: default
 </body>
 
 
-<h3><b>Education</b></h3>
+<h4><b>Education</b></h4>
 <table style="border-collapse: collapse; width: 100%;">
 <style>
   table {
