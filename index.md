@@ -199,67 +199,7 @@ layout: default
 <span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abstracts Side by Side</title>
-    <style>
-        /* Container for both abstracts */
-        .abstract-container {
-            display: flex; /* Aligns abstracts in a row */
-            justify-content: space-between; /* Space between abstracts */
-            align-items: flex-start; /* Aligns text at the top */
-            gap: 20px; /* Adds spacing between abstracts */
-        }
 
-        /* Individual abstract box */
-        .abstract {
-            width: 48%; /* Adjusts width to fit two in a row */
-            background-color: #f9f9f9; /* Light background for visibility */
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
-        }
-
-        /* Title styling */
-        .abstract h3 {
-            color: maroon;
-            text-align: center;
-        }
-
-        /* Paragraph styling */
-        .abstract p {
-            text-align: justify;
-            font-size: 16px;
-            line-height: 1.5;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="abstract-container">
-        <!-- Abstract 1 -->
-        <div class="abstract">
-            <h3>Abstract 1</h3>
-            <p>
-                This research focuses on understanding the impact of machine learning algorithms on predictive analytics.
-                The study compares various supervised learning models and their accuracy in forecasting business trends.
-                The results indicate that ensemble methods outperform traditional regression models.
-            </p>
-        </div>
-
-        <!-- Abstract 2 -->
-        <div class="abstract">
-            <h3>Abstract 2</h3>
-            <p>
-                The second abstract explores the applications of deep learning in natural language processing.
-                Various models, including transformers and recurrent neural networks, are analyzed for sentiment classification tasks.
-                The findings suggest that transformer-based architectures provide the best performance for text-based predictions.
-            </p>
-        </div>
-    </div>
-
-</body>
 
 
 
