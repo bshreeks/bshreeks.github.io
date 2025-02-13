@@ -200,12 +200,12 @@ layout: default
 
 <div class="container">
     <figure>
-        <img src="AppStore.jpg" alt="Image 1">
+        <img src="/assets/images/AppStore.jpg" alt="Image 1">
         <figcaption>Profitable App Profiles for the Apple Store and Google Play Markets</figcaption>
     </figure>
     
     <figure>
-        <img src="HN.jpg" alt="Image 2">
+        <img src="/assets/images/HN.jpg" alt="Image 2">
         <figcaption>Exploring Hacker News Posts</figcaption>
     </figure>
 </div>
