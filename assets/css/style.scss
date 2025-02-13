@@ -56,6 +56,7 @@ table{
     display: flex; /* Arrange figures side by side */
     justify-content: center; /* Center them horizontally */
     gap: 20px; /* Space between figures */
+    align-items: stretch;
 }
 
 figure {
@@ -71,6 +72,7 @@ figure {
         width: 100%; /* Make images responsive */
         height: auto;
         border-radius: 5px;
+        object-fit: cover;
     }
 
     figcaption {
