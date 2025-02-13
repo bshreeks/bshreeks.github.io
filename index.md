@@ -217,12 +217,35 @@ layout: default
             margin-bottom: 20px;
         }
     </style>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Paragraphs</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .text p {
+            margin: 0; 
+            flex: 1;
+            padding: 0 20px; /* Adjust padding as needed */
+        }  
+    </style>
+</head>
+
 </head>
 <body>
     <div class="container">
         <div class="abstract">
-            <h2>Abstract 1</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h4>Profitable App Profiles for the Apple Store and Google Play Markets</h4>
+            <div class="container">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
+        <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
+        </a>
+        <div class="text">
+            <p>In this project we worked with a company that builds free Android and iOS apps, which are free to download and install. The main revenue of the company is from in-app adds. Our objective in here is to help the developers understand what type of apps attract more users and are more profitable. We have come up with a list of genres for apps which can be profitable to both the app stores.</p>
         </div>
         <div class="abstract">
             <h2>Abstract 2</h2>
