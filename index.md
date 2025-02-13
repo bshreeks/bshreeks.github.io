@@ -172,6 +172,46 @@ layout: default
 </table>
 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side by Side Abstracts</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .abstract {
+            width: 45%;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        .heading {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="heading">Abstracts</h1>
+    <div class="container">
+        <div class="abstract">
+            <h2>Abstract 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div class="abstract">
+            <h2>Abstract 2</h2>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
 <h2><b>Projects</b></h2>
 <head>
 <meta charset="UTF-8">
