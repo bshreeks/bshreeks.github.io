@@ -51,3 +51,33 @@ table{
   font-size:16px;
   }
 }
+
+.container {
+    display: flex; /* Arrange figures side by side */
+    justify-content: center; /* Center them horizontally */
+    gap: 20px; /* Space between figures */
+}
+
+figure {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 10px;
+    width: 320px;
+    margin: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+
+    img {
+        width: 100%; /* Make images responsive */
+        height: auto;
+        border-radius: 5px;
+    }
+
+    figcaption {
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 10px;
+        color: maroon;
+    }
+}
+
