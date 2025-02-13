@@ -198,6 +198,19 @@ layout: default
 </head>
 <span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
+<div class="container">
+    <figure>
+        <img src="AppStore.jpg" alt="Image 1">
+        <figcaption>Profitable App Profiles for the Apple Store and Google Play Markets</figcaption>
+    </figure>
+    
+    <figure>
+        <img src="HN.jpg" alt="Image 2">
+        <figcaption>Exploring Hacker News Posts</figcaption>
+    </figure>
+</div>
+
+
 
 
 
