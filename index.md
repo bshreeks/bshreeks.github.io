@@ -186,6 +186,19 @@ layout: default
     </section>
 </body>
 
+<title>Smooth Block</title>
+<style>
+    .smooth-block {
+        display: inline-block;
+        padding: 8px;
+        background-color: white;
+        border-radius: 8px; /* Adjust the value to change the roundness */
+    }
+</style>
+</head>
+<span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
