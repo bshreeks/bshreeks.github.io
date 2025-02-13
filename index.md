@@ -172,8 +172,20 @@ layout: default
 </table>
 
 
+<h2><b>Projects</b></h2>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!DOCTYPE html>
+    <head>
+    <title>Heading in a Block Example</title>
+</head>
+<body>
+    <section>
+        <h3>Part 1: Python</h3>
+    </section>
+</body>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
