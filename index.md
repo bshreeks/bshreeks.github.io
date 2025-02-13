@@ -199,7 +199,6 @@ layout: default
 <span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -220,7 +219,6 @@ layout: default
     </style>
 </head>
 <body>
-    <h1 class="heading">Abstracts</h1>
     <div class="container">
         <div class="abstract">
             <h2>Abstract 1</h2>
