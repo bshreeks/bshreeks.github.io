@@ -241,10 +241,6 @@ layout: default
         <div class="abstract">
             <h4>Profitable App Profiles for the Apple Store and Google Play Markets</h4>
             <div class="container">
-        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
-        <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
-        </a>
-        <div class="text">
             <p>In this project we worked with a company that builds free Android and iOS apps, which are free to download and install. The main revenue of the company is from in-app adds. Our objective in here is to help the developers understand what type of apps attract more users and are more profitable. We have come up with a list of genres for apps which can be profitable to both the app stores.</p>
         </div>
         <div class="abstract">
