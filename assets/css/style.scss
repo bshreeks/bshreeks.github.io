@@ -67,10 +67,10 @@ table{
 
 
 .divider {
-    width: 2px;
-    height: 100%;
+    width: 3px;
+    height: auto;
     background-color: black; /* Adjust color */
-    margin: 0 5px; /* Space between line and image */
+    align-self: stretch;
 }
 
 figure {
