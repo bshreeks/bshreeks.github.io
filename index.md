@@ -200,12 +200,16 @@ layout: default
 
 <div class="container">
     <figure>
-        <img src="/assets/images/AppStore.jpg" alt="Image 1">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
+        <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
+        </a>
         <figcaption>Profitable App Profiles for the Apple Store and Google Play Markets</figcaption>
     </figure>
     
     <figure>
-        <img src="/assets/images/HN.jpg" alt="Image 2">
+        <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
+            <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
+        </a>
         <figcaption>Exploring Hacker News Posts</figcaption>
     </figure>
 </div>
