@@ -173,7 +173,7 @@ layout: default
 
 
 <h4><b>Projects</b></h4>
-<hr>
+<hr style="height: 5px;">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -186,6 +186,7 @@ layout: default
         <h4 style="color:maroon;">Part 1: Python</h4>
     </section>
 </body>
+<hr>
 
 <title>Smooth Block</title>
 <style>
