@@ -207,7 +207,7 @@ layout: default
       </figure>
      </div>
 
-    <div class="divider"></div> 
+
 
     <div class="image-block">
       <h4> Intermediate Python for DataScience</h4>
