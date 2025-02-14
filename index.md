@@ -195,11 +195,10 @@ layout: default
         border-radius: 8px; /* Adjust the value to change the roundness */
     }
 </style>
-</head>
-<span class="smooth-block"><strong><u>Introductory Python for DataScience:</u></strong> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</span>
 
 <div class="container">
     <figure>
+        <h4> Introductory Python for DataScience</h4>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
         <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
@@ -207,6 +206,7 @@ layout: default
     </figure>
     
     <figure>
+        <h4> Intermediate Python for DataScience</h4>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
