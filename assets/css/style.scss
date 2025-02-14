@@ -67,6 +67,8 @@ table{
 
 figure {
     text-align: center;
+     display: flex;
+    justify-content: space-between; /* Adjust alignment */
     gap: 30px;
     padding: 0;
     border-radius: 10px;
