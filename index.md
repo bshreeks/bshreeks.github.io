@@ -197,22 +197,26 @@ layout: default
 </style>
 
 <div class="container">
-    <h4> Introductory Python for DataScience</h4>
-    <figure>
+    <div class="image-block">
+      <h4> Introductory Python for DataScience</h4>
+      <figure>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
         <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Profitable App Profiles for the Apple Store and Google Play Markets</figcaption>
-    </figure>
-    
-    <h4> Intermediate Python for DataScience</h4>
-    <figure>
+      </figure>
+     </div>
+
+    <div class="image-block">
+      <h4> Intermediate Python for DataScience</h4>
+      <figure>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Exploring Hacker News Posts</figcaption>
-    </figure>
-</div>
+      </figure>
+    </div>
+  </div>  
 
 
 
