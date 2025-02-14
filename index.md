@@ -172,7 +172,7 @@ layout: default
 </table>
 
 
-<h2><b>Projects</b></h2>
+<h4><b>Projects</b></h4>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
