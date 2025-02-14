@@ -58,6 +58,13 @@ table{
     gap: 3px; /* Space between figures */
 }
 
+.image-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+}
+
 figure {
     text-align: center;
     padding: 15px;
