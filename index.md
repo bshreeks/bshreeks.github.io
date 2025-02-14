@@ -198,8 +198,9 @@ layout: default
 
 <div class="container">
     <div class="image-block">
-      <h4> Introductory Python for DataScience</h4>
+    
       <figure>
+        <figcaption class="figure-title">Introductory Python for DataScience</figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
         <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
@@ -210,8 +211,8 @@ layout: default
 
 
     <div class="image-block">
-      <h4> Intermediate Python for DataScience</h4>
       <figure>
+        <figcaption class="figure-title">Intermediate Python for DataScience</figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
