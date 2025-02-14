@@ -172,7 +172,7 @@ layout: default
 </table>
 
 
-<h4><b>Projects</b></h4>
+<h2><b>Projects</b></h2>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -182,7 +182,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h3>Part 1: Python</h3>
+        <h4>Part 1: Python</h4>
     </section>
 </body>
 
