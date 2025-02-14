@@ -182,7 +182,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h4>Part 1: Python</h4>
+        <h4 style="color:maroon;">Part 1: Python</h4>
     </section>
 </body>
 
