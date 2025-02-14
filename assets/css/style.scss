@@ -65,14 +65,6 @@ table{
     max-width: 300px;
 }
 
-
-.divider {
-    width: 3px;
-    height: auto;
-    background-color: black; /* Adjust color */
-    align-self: stretch;
-}
-
 figure {
     text-align: center;
     padding: 0;
@@ -86,6 +78,9 @@ figure {
         border: 3px solid black;
         background: none;
         object-fit: cover;
+    }
+
+    figure-title{
     }
 
     figcaption {
