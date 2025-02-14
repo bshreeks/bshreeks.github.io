@@ -53,7 +53,7 @@ table{
 }
 
 .container {
-    display: block; /* Arrange figures side by side */
+    display: flex; /* Arrange figures side by side */
     justify-content: space-evenly; 
     gap: 3px; /* Space between figures */
 }
