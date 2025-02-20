@@ -218,7 +218,8 @@ layout: default
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
-        <figcaption>Exploring Hacker News Posts                 </figcaption>
+        <figcaption>Exploring Hacker News Posts                 
+             </figcaption>
       </figure>
     </div>
   </div>  
