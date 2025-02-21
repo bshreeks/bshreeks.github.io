@@ -202,7 +202,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><u>Introductory Python for DataScience:</u> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</figcaption>
+        <figcaption class="figure-title"><b><u>Introductory Python for DataScience:</u></b> Lists, Dictionary, Functions, Frequency Table, Tuple, Sets etc.</figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
         <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
