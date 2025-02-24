@@ -53,9 +53,9 @@ table{
 }
 
 .container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    justify-content: center; 
+    display: flex;
+    justify-content: flex-start; 
+    marjin-left: 50px;
     gap: 3px; /* Space between figures */
 }
 
