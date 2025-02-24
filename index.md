@@ -223,6 +223,18 @@ layout: default
 </body>
 <hr>
 
+<div class="container">
+    <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong><u>Introduction to Pandas and Numpy for Data Analysis:</u></strong><span style="font-size: 15px;"> Numpy, Pandas, Data Exploration, Data Cleaning</span></figcaption>
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
+        <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Exploring ebay Car Sales Data from eBay Kelenanzeigen</figcaption>
+      </figure>
+     </div>
+
 
 
 
