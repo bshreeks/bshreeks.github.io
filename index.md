@@ -258,6 +258,7 @@ layout: default
         <figcaption>Storytelling Data Visualization on Exchange Rates Between Euro & Other Currencies</figcaption>
       </figure>
      </div>
+    </div>
 
 
 
