@@ -188,15 +188,6 @@ layout: default
 </body>
 <hr>
 
-<title>Smooth Block</title>
-<style>
-    .smooth-block {
-        display: inline-block;
-        padding: 8px;
-        background-color: white;
-        border-radius: 8px; /* Adjust the value to change the roundness */
-    }
-</style>
 
 <div class="container">
     <div class="image-block">
@@ -222,6 +213,15 @@ layout: default
       </figure>
     </div>
   </div>  
+
+<hr>
+
+<body>
+    <section>
+        <h4 style="color:maroon;">Part 2: Data Analysis & Visualization</h4>
+    </section>
+</body>
+<hr>
 
 
 
