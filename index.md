@@ -236,6 +236,18 @@ layout: default
      </div>
 
 
+     <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong><u>Introduction to Data Visualization in Python:</u></strong><span style="font-size: 15px;"> Line Plot, Scatter Plot, Bar Plot, Histograms, Pandas Visualization, Time Series, Correlations, Grid Charts, Relational Plots</span></figcaption>
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb" target="_blank">
+        <img src="/assets/images/I94.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Finding Heavy Westbound Traffic Indicators on I-94 Interstate Highway</figcaption>
+      </figure>
+     </div>
+
+
 
 
 
