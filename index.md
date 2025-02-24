@@ -251,7 +251,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong><u>Storytelling Using Data Visualization & Information:</u></strong><span style="font-size: 15px;"> Information Design Principle, Story Telling Data Visualization with Matplotlib, Creating Visual Patterns using Gestalt Principles, Pre-Attentive Attributes, Matplotlib Styles</span></figcaption>
+        <figcaption class="figure-title"><strong><u>Storytelling Using Data Visualization & Information:</u></strong><span style="font-size: 15px;"> Information Design Principle, Story Telling Data Visualization, Gestalt Principles, Matplotlib Styles</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Storytelling_Data_Visualization.ipynb" target="_blank">
         <img src="/assets/images/currency_logo.png" alt="currency_logo" style="width: 250px; height: 200px;">
         </a>
