@@ -227,7 +227,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong><u>Introduction to Pandas and Numpy for Data Analysis:</u></strong><span style="font-size: 15px;"> Numpy, Pandas, Data Exploration, Data Cleaning</span></figcaption>
+        <figcaption class="figure-title"><strong><u>Introduction to Pandas and Numpy for Data Analysis:</u></strong><span style="font-size: 15px;"> Numpy, Pandas, Data Exploration and Data Cleaning with Pandas</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
         <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
@@ -239,7 +239,7 @@ layout: default
      <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong><u>Introduction to Data Visualization in Python:</u></strong><span style="font-size: 15px;"> Line Plot, Scatter Plot, Bar Plot, Histograms, Pandas Visualization, Time Series, Correlations, Grid Charts, Relational Plots</span></figcaption>
+        <figcaption class="figure-title"><strong><u>Introduction to Data Visualization in Python:</u></strong><span style="font-size: 15px;"> Data Visualization with Python and Pandas, Time Series, Correlations, Relational Plots</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb" target="_blank">
         <img src="/assets/images/I94.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
