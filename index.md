@@ -218,7 +218,7 @@ layout: default
 
 <body>
     <section>
-        <h4 style="color:maroon;">Part 2: Data Analysis & Visualization</h4>
+        <h4 style="color:maroon; text-align:center;">Part 2: Data Analysis & Visualization</h4>
     </section>
 </body>
 <hr>
