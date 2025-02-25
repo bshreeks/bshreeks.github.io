@@ -275,7 +275,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h4 style="text-align:center;">Part 3: Data Cleaning</h4>
+        <h4 style="text-align:center; color:maroon;">Part 3: Data Cleaning</h4>
     </section>
     <hr>
 </body>
@@ -287,6 +287,7 @@ layout: default
 
 <br><br>
 <h4 style="margin-bottom: 0;"><b>Python Programming</b></h4>
+<hr>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
