@@ -205,7 +205,7 @@ layout: default
 
     <div class="image-block">
       <figure>
-        <figcaption class="figure-title"><strong>Intermediate Python for DataScience</strong><span style="font-size: 15px;">(Data Cleaning, Basic Data Analysis, OOP, Dates & Times)</span></figcaption>
+        <figcaption class="figure-title"><strong>Intermediate Python for DataScience</strong><span style="font-size: 15px;"> (Data Cleaning, Basic Data Analysis, OOP, Dates & Times)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
@@ -231,7 +231,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introduction to Pandas and Numpy for Data Analysis</strong><span style="font-size: 15px;">(Numpy, Pandas, Data Exploration and Data Cleaning with Pandas)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introduction to Pandas and Numpy for Data Analysis</strong><span style="font-size: 15px;"> (Numpy, Pandas, Data Exploration and Data Cleaning with Pandas)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
         <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
@@ -243,7 +243,7 @@ layout: default
      <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introduction to Data Visualization in Python</strong><span style="font-size: 15px;">(Data Visualization with Python and Pandas, Time Series, Correlations, Relational Plots)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introduction to Data Visualization in Python</strong><span style="font-size: 15px;"> (Data Visualization with Python and Pandas, Time Series, Correlations, Relational Plots)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb" target="_blank">
         <img src="/assets/images/I94.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
