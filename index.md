@@ -277,6 +277,7 @@ layout: default
     <section>
         <h3 style="text-align:center;">Part 3: Data Cleaning</h3>
     </section>
+    <hr>
 </body>
 
 <span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, a, Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
@@ -285,7 +286,7 @@ layout: default
 
 
 <br><br>
-<h2 style="margin-bottom: 0;"><b>Python Programming</b></h2>
+<h4 style="margin-bottom: 0;"><b>Python Programming</b></h4>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
