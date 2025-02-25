@@ -183,7 +183,9 @@ layout: default
 </head>
 <body>
     <section>
+    <div class="curvy-background">
         <h4 style="color:maroon; text-align:center;">Part 1: Python</h4>
+    </div>
     </section>
 </body>
 <hr>
