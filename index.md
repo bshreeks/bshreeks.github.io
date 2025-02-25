@@ -286,7 +286,7 @@ layout: default
 
 
 <br><br>
-<h4 style="margin-bottom: 0;"><b>Python Programming</b></h4>
+<h4 style="margin-bottom: 0; color:maroon; text-align=center;"><b>Python Programming</b></h4>
 <hr>
 <head>
     <meta charset="UTF-8">
@@ -311,8 +311,8 @@ layout: default
         <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
-            <p><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
-            <p><i>I have organized my programming exercise solutions into separate sections, each corresponding to the chapters of the textbook</i></p>
+            <p style="color:black;"><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
+            <p><i>In this project I have organized solutions to programming exercise into separate sections, each corresponding to different  chapters of the textbook</i></p>
         </div>
     </div>
 </body>
