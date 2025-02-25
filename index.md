@@ -183,7 +183,7 @@ layout: default
 </head>
 <body>
     <section>
-    <div class="curvy-background">
+    <div class="background">
         <h4 style="color:maroon; text-align:center;">Part 1: Python</h4>
     </div>
     </section>
