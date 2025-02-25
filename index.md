@@ -275,11 +275,11 @@ layout: default
 </head>
 <body>
     <section>
-        <h3>Part 3: Data Cleaning</h3>
+        <h3 style="text-align:center;">Part 3: Data Cleaning</h3>
     </section>
 </body>
 
-<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, aggregation with pivot_table), Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
+<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, a, Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
 
 
 
