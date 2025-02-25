@@ -312,7 +312,7 @@ layout: default
         </a>
         <div class="text">
             <p style="color:black;"><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
-            <p><i>In this project I have organized solutions to programming exercise into separate sections, each corresponding to different  chapters of the textbook</i></p>
+            <p><i>In this project I have organized solutions to programming exercises into separate sections, each corresponding to individual  chapter of the textbook.</i></p>
         </div>
     </div>
 </body>
