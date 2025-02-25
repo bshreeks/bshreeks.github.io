@@ -227,7 +227,7 @@ layout: default
 </body>
 <hr>
 
-<div class="container" style="transform:TranslateX(150px);">
+<div class="container">
     <div class="image-block">
     
       <figure>
