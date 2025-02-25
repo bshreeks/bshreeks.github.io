@@ -286,7 +286,7 @@ layout: default
 
 
 <br><br>
-<h4 style="margin-bottom: 0; color:maroon; text-align=center;"><b>Python Programming</b></h4>
+<h4 style="margin-bottom: 0; color:maroon; text-align:center;"><b>Python Programming</b></h4>
 <hr>
 <head>
     <meta charset="UTF-8">
