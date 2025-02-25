@@ -184,7 +184,7 @@ layout: default
 <body>
     <section>
     <div class="background">
-        <h4 style="color:maroon; text-align:center;">Part 1: Python</h4>
+        <h4 style="color:maroon; text-align:center;"><span>Part 1: Python</span></h4>
     </div>
     </section>
 </body>
