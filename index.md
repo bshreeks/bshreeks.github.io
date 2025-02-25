@@ -231,7 +231,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introduction to Pandas and Numpy for Data Analysis</strong><span style="font-size: 15px;"> (Numpy, Pandas, Data Exploration and Data Cleaning with Pandas)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introduction to Pandas and Numpy for Data Analysis</strong><span style="font-size: 15px; color:grey;"> (Numpy, Pandas, Data Exploration and Data Cleaning with Pandas)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
         <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
@@ -243,7 +243,7 @@ layout: default
      <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introduction to Data Visualization in Python</strong><span style="font-size: 15px;"> (Data Visualization with Python and Pandas, Time Series, Correlations, Relational Plots)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introduction to Data Visualization in Python</strong><span style="font-size: 15px; color:grey;"> (Data Visualization with Python and Pandas, Time Series, Correlations, Relational Plots)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Heavy_Traffic_Indicator.ipynb" target="_blank">
         <img src="/assets/images/I94.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
@@ -255,7 +255,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Storytelling Using Data Visualization & Information</strong><span style="font-size: 15px;"> (Information Design Principle, Story Telling Data Visualization, Gestalt Principles, Matplotlib Styles)</span></figcaption>
+        <figcaption class="figure-title"><strong>Storytelling Using Data Visualization & Information</strong><span style="font-size: 15px; color:grey;"> (Information Design Principle, Story Telling Data Visualization, Gestalt Principles, Matplotlib Styles)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Storytelling_Data_Visualization.ipynb" target="_blank">
         <img src="/assets/images/currency_logo.png" alt="currency_logo" style="width: 250px; height: 200px;">
         </a>
