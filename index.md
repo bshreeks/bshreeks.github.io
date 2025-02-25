@@ -275,7 +275,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h3 style="text-align:center;">Part 3: Data Cleaning</h3>
+        <h4 style="text-align:center;">Part 3: Data Cleaning</h4>
     </section>
     <hr>
 </body>
