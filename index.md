@@ -193,7 +193,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introductory Python for DataScience</strong><span style="font-size: 15px;"> (Lists, Dictionary, Functions, Frequency Table, Tuple, Sets)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introductory Python for DataScience</strong><span style="font-size: 15px; color:grey;"> (Lists, Dictionary, Functions, Frequency Table, Tuple, Sets)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/App_Profile.ipynb" target="_blank">
         <img src="/assets/images/AppStore.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
@@ -205,7 +205,7 @@ layout: default
 
     <div class="image-block">
       <figure>
-        <figcaption class="figure-title"><strong>Intermediate Python for DataScience</strong><span style="font-size: 15px;"> (Data Cleaning, Basic Data Analysis, OOP, Dates & Times)</span></figcaption>
+        <figcaption class="figure-title"><strong>Intermediate Python for DataScience</strong><span style="font-size: 15px; color:grey;"> (Data Cleaning, Basic Data Analysis, OOP, Dates & Times)</span></figcaption>
         <a href="https://github.com/bshreeks/dataquest_projects/blob/main/Hacker_News_Posts.ipynb" target="_blank">
             <img src="/assets/images/HN.jpg" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
