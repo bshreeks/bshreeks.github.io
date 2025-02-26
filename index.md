@@ -179,7 +179,13 @@ layout: default
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <head>
-    <title>Heading in a Block Example</title>
+    <title>Heading on a White Background</title>
+    <style>
+        .background {
+            background-color: white; /* White background color */
+            padding: 5px; /* Add padding around the text */
+        }
+    </style>
 </head>
 <body>
     <section>
