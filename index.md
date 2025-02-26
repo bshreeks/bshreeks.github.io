@@ -180,15 +180,8 @@ layout: default
 
     <head>
     <title>Heading on a White Background</title>
-    <style>
-        .background {
-            background-color: white; /* White background color */
-            padding: 2px; /* Add padding around the text */
-            border-radius: 40px;
-            display: inline;
-        }
-    </style>
-</head>
+
+    </head>
 <body>
     <section>
         <h4 class="background" style="color:maroon; text-align:center;">Part 1: Python</h4>
