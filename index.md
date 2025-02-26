@@ -183,7 +183,7 @@ layout: default
     </head>
 <body>
     <div class="background">
-        <h4 class="background" style="color:maroon; text-align:center;">Part 1: Python</h4>
+        <h4 style="color:maroon;">Part 1: Python</h4>
     </div>
 </body>
 <hr>
