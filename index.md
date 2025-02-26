@@ -223,7 +223,7 @@ layout: default
 
 <body>
     <section>
-        <h4 style="text-align:center;"><span class="background;">Part 2: Data Analysis & Visualization</span></h4>
+        <h4 style="text-align:center;"><span class="background">Part 2: Data Analysis & Visualization</span></h4>
     </section>
 </body>
 <hr>
