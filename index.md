@@ -180,12 +180,11 @@ layout: default
 
     <head>
     <title>Heading on a White Background</title>
-
     </head>
 <body>
-    <section>
+    <div class="background">
         <h4 class="background" style="color:maroon; text-align:center;">Part 1: Python</h4>
-    </section>
+    </div>
 </body>
 <hr>
 
