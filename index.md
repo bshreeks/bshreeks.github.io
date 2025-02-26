@@ -184,7 +184,7 @@ layout: default
     </head>
 <body>
     <section>
-        <h4 style="color:maroon; text-align:center;"><span class="background">Part 1: Python</span></h4>
+        <h4 style="text-align:center;"><span class="background">Part 1: Python</span></h4>
     </section>
 </body>
 <hr>
@@ -223,7 +223,7 @@ layout: default
 
 <body>
     <section>
-        <h4 style="color:maroon; text-align:center;">Part 2: Data Analysis & Visualization</h4>
+        <h4 style="text-align:center;"><span class="background;">Part 2: Data Analysis & Visualization</span></h4>
     </section>
 </body>
 <hr>
