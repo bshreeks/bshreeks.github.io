@@ -183,9 +183,9 @@ layout: default
     <link rel="stylesheet" href="styles.css">
     </head>
 <body>
-    <div class="background">
-        <h4 style="color:maroon;">Part 1: Python</h4>
-    </div>
+    <section>
+        <h4 style="color:maroon;"><span class="background">Part 1: Python</span></h4>
+    </section>
 </body>
 <hr>
 
