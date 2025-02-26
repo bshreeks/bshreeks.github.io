@@ -183,7 +183,9 @@ layout: default
     <style>
         .background {
             background-color: white; /* White background color */
-            padding: 5px; /* Add padding around the text */
+            padding: 2px; /* Add padding around the text */
+            border-radius: 40px;
+            display: inline;
         }
     </style>
 </head>
