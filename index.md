@@ -180,6 +180,7 @@ layout: default
 
     <head>
     <title>Heading on a White Background</title>
+    <link rel="stylesheet" href="styles.css">
     </head>
 <body>
     <div class="background">
