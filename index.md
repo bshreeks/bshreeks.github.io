@@ -278,8 +278,21 @@ layout: default
     <section>
         <h4 style="text-align:center; color:maroon;"><span class="background">Part 3: Data Cleaning</span></h4>
     </section>
-    <hr>
 </body>
+<hr>
+
+<div class="container">
+    <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>Data Cleaning & Analysis in Python</strong><span style="font-size: 15px; color:grey;"> 
+        Data Aggregation, Combining Data, Transforming Data, Regular Expression</span></figcaption>
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
+        <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Exploring ebay Car Sales Data from eBay Kelenanzeigen</figcaption>
+      </figure>
+     </div>
 
 <span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, a, Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
 
