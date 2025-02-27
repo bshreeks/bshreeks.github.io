@@ -287,10 +287,11 @@ layout: default
       <figure>
         <figcaption class="figure-title"><strong>Data Cleaning & Analysis in Python</strong><span style="font-size: 15px; color:grey;"> 
         Data Aggregation, Combining Data, Transforming Data, Regular Expression</span></figcaption>
-        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/ebay_car_sales.ipynb" target="_blank">
-        <img src="/assets/images/ebay_logo.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Exit_Survey.ipynb" target="_blank">
+        <img src="/assets/images/TAFE_DETE.jpg" alt="dete_logo" style="width: 250px; height: 200px;">
         </a>
-        <figcaption>Exploring ebay Car Sales Data from eBay Kelenanzeigen</figcaption>
+        <figcaption>Analysing Employee Exit Survey</figcaption>
       </figure>
      </div>
 
