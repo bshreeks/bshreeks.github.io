@@ -293,9 +293,10 @@ layout: default
         </a>
         <figcaption>Analysing Employee Exit Survey</figcaption>
       </figure>
+     
      </div>
+  </div>   
 
-<span class="smooth-block"><strong><u>Data Cleaning & Analysis in Python:</u></strong> Data Aggregation (groupby objects & agg methods, a, Combining Data (using concat & merge functions), Transforming Data (with apply & map functions), etc.</span>
 
 
 
