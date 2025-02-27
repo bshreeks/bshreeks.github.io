@@ -288,7 +288,7 @@ layout: default
         <figcaption class="figure-title"><strong>Data Cleaning & Analysis in Python</strong><span style="font-size: 15px; color:grey;"> 
         Data Aggregation, Combining Data, Transforming Data, Regular Expression</span></figcaption>
         
-        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Exit_Survey.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/dataquest-step2/blob/main/Employee_Exit_Survey.ipynb" target="_blank">
         <img src="/assets/images/TAFE_DETE.jpg" alt="dete_logo" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Analysing Employee Exit Survey</figcaption>
