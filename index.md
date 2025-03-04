@@ -197,7 +197,7 @@ layout: default
     </head>
 <body>
     <section>
-        <h4 style="text-align:center;"><span class="background">Part 1: Python</span></h4>
+        <h4 style="text-align:center;"><span class="background">Python</span></h4>
     </section>
 </body>
 <hr>
@@ -236,7 +236,7 @@ layout: default
 
 <body>
     <section>
-        <h4 style="text-align:center;"><span class="background">Part 2: Data Analysis & Visualization</span></h4>
+        <h4 style="text-align:center;"><span class="background">Data Analysis & Visualization</span></h4>
     </section>
 </body>
 <hr>
@@ -289,7 +289,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h4 style="text-align:center; color:maroon;"><span class="background">Part 3: Data Cleaning</span></h4>
+        <h4 style="text-align:center; color:maroon;"><span class="background">Data Cleaning</span></h4>
     </section>
 </body>
 <hr>
@@ -314,7 +314,7 @@ layout: default
 
 
 <br><br>
-<h4 style="margin-bottom: 0; color:maroon; text-align:center;"><b>Python Programming</b></h4>
+<h4 style="margin-bottom: 0; color:black; text-align:center;"><b>Python Programming</b></h4>
 <hr>
 <head>
     <meta charset="UTF-8">
@@ -339,7 +339,7 @@ layout: default
         <img src="/assets/images/Python_Programming.png" alt="profile_pic" style="width: 250px; height: 200px;">
         </a>
         <div class="text">
-            <p style="color:black;"><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
+            <p style="color:maroon;"><strong>Python Programming: An Introduction to Computer Science by John Zelle</strong></p>
             <p><i>In this project I have organized solutions to programming exercises into separate sections, each corresponding to individual  chapters of the textbook.</i></p>
         </div>
     </div>
