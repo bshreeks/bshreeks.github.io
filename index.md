@@ -109,6 +109,7 @@ layout: default
 <body><strong><p style= "font-size: 17px; color: black;" class="shadowed-paragraph"><em>Hi, I am Shree, Physisist by qualification. After taking a career break to raise my family, I’ve embarked on a new journey into the world of data science. I started by learning Python for scientific analysis and explored data science through platforms like ‘udemy’, ‘dataquest’. Additionally, I delved deeper into Python using resources like ‘Python Programming: An Introduction to Computer Science’ by John Zelle and ‘Python for Data Analysis’ by Wes McKinney. Currently, I’m immersing myself in ‘Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow’ by Aurélien Géron. Data Science has significantly enriched my professional career, keeping my aspirations alive. I find great enjoyment in coding, problem-solving, and working on various projects. Below, I present my certificates, solutions to coding challenges, and projects I've completed.</em></p></strong></body>
 
 <section id="life-beyond-code">
+   <em> 
     <h5>Life Beyond Code:</h5>
     <ul>
         <li><strong>Mindful Beginnings:</strong> I start each day with 10 minutes of mindful meditation to center myself and set a positive tone for the day.</li>
@@ -116,6 +117,7 @@ layout: default
         <li><strong>Community Volunteer:</strong> Every week, I dedicate time to volunteer at Redmond Elementary, assisting teachers and helping to support the community.</li>
         <li><strong>Fitness Enthusiast:</strong> I love staying active through pilates, hiking, and yoga, which keep me physically fit and mentally refreshed.</li>
     </ul>
+   </em> 
 </section>
 
 
