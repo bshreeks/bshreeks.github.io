@@ -307,6 +307,22 @@ layout: default
       </figure>
      
      </div>
+
+    <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
+        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span></figcaption>
+        <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
+        <img src="/assets/images/SAT.png" alt="sat_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Analysing NYC High School Data</figcaption>
+        
+      </figure>
+     
+     </div> 
+
+     
   </div>   
 
 
