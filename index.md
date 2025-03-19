@@ -317,6 +317,11 @@ layout: default
         <img src="/assets/images/SAT.png" alt="sat_logo" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Analysing NYC High School Data</figcaption>
+
+        <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
+        <img src="/assets/images/Star_wars.jpg" alt="star_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Star War Survey</figcaption>
         
       </figure>
      
