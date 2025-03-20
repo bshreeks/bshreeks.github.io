@@ -315,24 +315,23 @@ layout: default
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span></figcaption>
 
     
-            <div style="text-align: center;">
+            <div class="image-row">
+            <div class="image-container">
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
                     <img src="/assets/images/SAT.png" alt="sat_logo">
                 </a>
                 <figcaption>Analysing NYC High School Data</figcaption>
             </div>
 
-            <div style="text-align: center;">
+            <div class="image-container">
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
                     <img src="/assets/images/Star_wars.jpg" alt="star_logo">
                 </a>
                 <figcaption>Star War Survey</figcaption>
             </div>
-    
-        
-      </figure>
-     
-     </div> 
+        </div>
+    </figure>
+</div>
 
      
   </div>   
