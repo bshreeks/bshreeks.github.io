@@ -314,7 +314,7 @@ layout: default
         <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span></figcaption>
 
-        <div class="image-row">
+    
             <div class="image-container">
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
                     <img src="/assets/images/SAT.png" alt="sat_logo">
@@ -328,7 +328,7 @@ layout: default
                 </a>
                 <figcaption>Star War Survey</figcaption>
             </div>
-        </div>
+    
         
       </figure>
      
