@@ -315,7 +315,7 @@ layout: default
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span></figcaption>
 
     
-            <div class="image-row">
+            <div class="image-block">
             <div class="image-container">
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
                     <img src="/assets/images/SAT.png" alt="sat_logo">
