@@ -308,7 +308,7 @@ layout: default
      
      </div>
 
-    
+     <div class="image-block">
     
       <figure>
         <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
@@ -331,6 +331,7 @@ layout: default
             </div>
          </div>
       </figure>
+      </div>
   </div>   
 
 
