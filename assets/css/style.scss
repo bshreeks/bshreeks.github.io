@@ -68,6 +68,11 @@ table{
     align-items: center;
 }
 
+.image-row {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+
 figure {
     text-align: center;
     gap: 50px;
