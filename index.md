@@ -310,26 +310,28 @@ layout: default
 
      <div class="image-block">
     
-      <figure>
         <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span></figcaption>
-
-    
+        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
+        </figcaption>
+     </div>   
+        
         <div class="image-block">
+         <figure>
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
                     <img src="/assets/images/SAT.png" alt="sat_logo">
                 </a>
                 <figcaption>Analysing NYC High School Data</figcaption>
+         </figure>
         </div>
 
             <div class="image-block">
+             <figure>
                 <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
                     <img src="/assets/images/Star_wars.jpg" alt="star_logo">
                 </a>
                 <figcaption>Star War Survey</figcaption>
-            </div>
-      </figure>
-    </div>
+         </figure>
+        </div>
   </div>   
 
 
