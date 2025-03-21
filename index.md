@@ -307,7 +307,7 @@ layout: default
 
      
 
-       <div>
+       <div class="image-block">
         <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
        </figcaption>
@@ -330,7 +330,7 @@ layout: default
             <figcaption>Star War Survey</figcaption>
          </figure>   
       </div>
-    </div>
+     </div> 
   </div>   
 
 
