@@ -279,57 +279,6 @@ layout: default
      </div>
     </div>
 
-<hr>
-
-<body>
-    <section>
-        <h4 style="text-align:center;"><span class="background">Data Cleaning</span></h4>
-    </section>
-</body>
-<hr>
-
-<div class="container" style="transform:TranslateX(-100px);">
-    <div class="image-block">
-    
-      <figure>
-        <figcaption class="figure-title"><strong>Data Cleaning & Analysis in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Data Aggregation, Combining Data, Transforming Data, Regular Expression</span></figcaption>
-        <a href="https://github.com/bshreeks/Dataquest-3/blob/main/Employee_Exit_Survey.ipynb" target="_blank">
-        <img src="/assets/images/TAFE_DETE.jpg" alt="dete_logo" style="width: 250px; height: 200px;">
-        </a>
-        <figcaption>Analysing Employee Exit Survey</figcaption>
-      </figure>
-     
-     </div>
-
-
-     <div class="image-block">
-    
-      <div class="image-block">
-        <figure>
-         <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
-         <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
-         <img src="/assets/images/SAT.png" alt="sat_logo">
-         </a>
-         <figcaption>Analysing NYC High School Data</figcaption>
-         </figcaption>
-        </figure>
-     </div>
-
-
-    <div class="image-block">
-    
-      <div class="image-block">
-         <figure>
-             <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
-             <img src="/assets/images/Star_wars.jpg" alt="star_logo">
-             </a>
-            <figcaption>Star War Survey</figcaption>
-         </figure>
-      </div>
-    </div>
-
 
 <hr>
 <head>
@@ -342,7 +291,7 @@ layout: default
 </body>
 <hr>
 
-<div class="container">
+<div class="container style="transform:TranslateX(-150px);">
     <div class="image-block">
     
       <figure>
