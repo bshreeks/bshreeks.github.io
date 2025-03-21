@@ -308,7 +308,7 @@ layout: default
      
     <div class="container">
     <div class="figure-title" style="font-size: 18px;"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span>
+        Basic & Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough - Combining, Analysing & visualizing Data</span>
 
     <div class="container">
     <div class="image-block">
