@@ -331,7 +331,7 @@ layout: default
     </div>
 
 
-</hr>
+<hr>
 <head>
     <title>Heading in a Block Example</title>
 </head>
