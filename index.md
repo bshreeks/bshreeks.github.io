@@ -307,7 +307,7 @@ layout: default
 
      
     <div class="container">
-    <div class="figure-title" style="font-size: 18px; margin-top: 27px; margin-bottom: 3px; margin-left: 5px;"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
+    <div class="figure-title" style="font-size: 18px; margin-top: 27px; margin-bottom: 3px; margin-left: 10px;"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Basic & Advanced Regular Expressions, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough - Combining, Analysing & visualizing Data</span>
 
     <div class="container">
