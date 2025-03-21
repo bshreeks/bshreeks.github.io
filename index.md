@@ -308,9 +308,9 @@ layout: default
      
 
        <div>
-        <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
+        <h4 class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
-       </figcaption>
+       </h4>
 
     
     <div class="image-block">
