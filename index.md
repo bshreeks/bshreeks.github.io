@@ -306,7 +306,7 @@ layout: default
      </div>
 
      
-
+    <div class="container">
     
     <div class="image-block">
         <figure>
@@ -325,7 +325,8 @@ layout: default
             <figcaption>Star War Survey</figcaption>
          </figure>   
       </div>
-  </div>   
+   </div>   
+  </div>
 
 
 
