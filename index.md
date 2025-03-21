@@ -305,9 +305,11 @@ layout: default
      
      </div>
 
-     <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
+     <figure>
+
+       <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
-     </figcaption>
+       </figcaption>
 
     
     <div class="image-block">
@@ -325,8 +327,9 @@ layout: default
              <img src="/assets/images/Star_wars.jpg" alt="star_logo" style="width: 250px; height: 200px;">
              </a>
             <figcaption>Star War Survey</figcaption>
-         </figure>
+         </figure>   
       </div>
+     </figure>
   </div>   
 
 
