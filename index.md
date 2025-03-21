@@ -308,7 +308,8 @@ layout: default
      
     <div class="container">
     <div class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span> 
+        Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span>
+        </div>
 
     
     <div class="image-block">
@@ -329,7 +330,7 @@ layout: default
          </figure>   
       </div>
     </div>
-   </div>   
+      
   </div>
 
 
