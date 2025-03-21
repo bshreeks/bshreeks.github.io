@@ -296,7 +296,7 @@ layout: default
     
       <figure>
         <figcaption class="figure-title"><strong>Data Cleaning & Analysis in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Data Aggregation, Combining Data, Transforming Data, Regular Expression</span></figcaption>
+        Data Aggregation, Combining Data, Transforming Data, Regular Expressions</span></figcaption>
         <a href="https://github.com/bshreeks/Dataquest-3/blob/main/Employee_Exit_Survey.ipynb" target="_blank">
         <img src="/assets/images/TAFE_DETE.jpg" alt="dete_logo" style="width: 250px; height: 200px;">
         </a>
@@ -308,7 +308,7 @@ layout: default
      
     <div class="container">
     <div class="figure-title" style="font-size: 18px;"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
-        Basic & Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough - Combining, Analysing & visualizing Data</span>
+        Basic & Advanced Regular Expressions, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough - Combining, Analysing & visualizing Data</span>
 
     <div class="container">
     <div class="image-block">
