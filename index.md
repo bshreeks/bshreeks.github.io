@@ -311,20 +311,20 @@ layout: default
     
         
     <div class="image-block">
-         <figure>
-                <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
-                    <img src="/assets/images/SAT.png" alt="sat_logo">
-                </a>
-                <figcaption>Analysing NYC High School Data</figcaption>
-         </figure>
+        <figure>
+         <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
+         <img src="/assets/images/SAT.png" alt="sat_logo">
+         </a>
+         <figcaption>Analysing NYC High School Data</figcaption>
+        </figure>
      </div>
 
      <div class="image-block">
-             <figure>
-                <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
-                    <img src="/assets/images/Star_wars.jpg" alt="star_logo">
-                </a>
-                <figcaption>Star War Survey</figcaption>
+         <figure>
+             <a href="https://github.com/bshreeks/Dataquest-3/blob/main/08_Star_Wars_Survey.ipynb" target="_blank">
+             <img src="/assets/images/Star_wars.jpg" alt="star_logo">
+             </a>
+            <figcaption>Star War Survey</figcaption>
          </figure>
       </div>
   </div>   
