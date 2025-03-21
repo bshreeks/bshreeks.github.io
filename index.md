@@ -310,7 +310,7 @@ layout: default
     <figcaption class="figure-title"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Advanced Regular Expression, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough</span>
 
-    
+    <div class="container">
     <div class="image-block">
         <figure>
          <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
@@ -330,6 +330,7 @@ layout: default
       </div>
       </figcaption>   
     </div>
+   </div>
  </div>
 
 
