@@ -310,7 +310,7 @@ layout: default
     <div class="figure-title" style="font-size: 18px; margin-top: 27px;"><strong>Advanced Data Cleaning in Python</strong><span style="font-size: 15px; color:grey;"> 
         Basic & Advanced Regular Expressions, List Comprehension & Lambda Function, Working with Missing Data, Data Cleaning Project Walkthrough - Combining, Analysing & visualizing Data</span>
 
-    <div class="container" style="margin-top: -5px;>
+    <div class="container">
     <div class="image-block">
         <figure>
          <a href="https://github.com/bshreeks/Dataquest-3/blob/main/NYC_high_school.ipynb" target="_blank">
