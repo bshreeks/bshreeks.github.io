@@ -345,6 +345,20 @@ layout: default
 </body>
 <hr>
 
+<div class="container" style="transform:TranslateX(-150px);">
+    <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>SQL Fundamentals</strong><span style="font-size: 15px; color:grey;"> (Basic Concepts, Summary Statistics, Group Summary Statistics, Subqueries)</span></figcaption>
+        <a href="https://github.com/bshreeks/Dataquest_Database-SQL-/blob/main/CIA%20factbook.ipynb" target="_blank">
+        <img src="/assets/images/CIA.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Analysing CIA Factbook Data</figcaption>
+      </figure>
+     </div>
+
+ </div>
+
 
 
 
