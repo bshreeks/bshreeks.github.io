@@ -361,7 +361,7 @@ layout: default
     <div class="image-block"> 
 
       <figure>
-        <figcaption class="figure-title"><strong>Intermediate SQL for Data Analysis</strong><span style="font-size: 15px; color:grey;"> (Joining Data, Intermediate Joins, Building and Organizing Complex Queries)</span></figcaption>
+        <figcaption class="figure-title"><strong>Intermediate SQL for Data Analysis</strong><span style="font-size: 15px; color:grey;"> (Data Joining, Intermediate Joins, Building and Organizing Complex Queries)</span></figcaption>
         <a href="https://github.com/bshreeks/Dataquest_Database-SQL-/blob/main/SQL_Business_Analysis.ipynb" target="_blank">
         <img src="/assets/images/chinook.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
