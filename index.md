@@ -353,7 +353,7 @@ layout: default
         <a href="https://github.com/bshreeks/Dataquest_Database-SQL-/blob/main/CIA%20factbook.ipynb" target="_blank">
         <img src="/assets/images/CIA.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
-        <figcaption>Analysing CIA Factbook Data</figcaption>
+        <figcaption>Analysing CIA (Central Intelligence Agency) Factbook Data</figcaption>
       </figure>
      </div>
 
