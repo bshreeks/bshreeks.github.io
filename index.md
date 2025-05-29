@@ -357,7 +357,7 @@ layout: default
       </figure>
      </div>
 
-    <div class="container">
+    
     <div class="image-block"> 
 
       <figure>
@@ -368,9 +368,7 @@ layout: default
         <figcaption>Answering Business Questions for Chinook Record Store Using SQL</figcaption>
       </figure>
      </div>
-    
-
- </div>
+    </div>
 
 
 
