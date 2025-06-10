@@ -1,7 +1,7 @@
 # Site Settings
 title: A Data Science Odyssey
 text_color: black
-description: Embark on a Journey of Data Exploration, Analysis, and Visualization
+description: Embark on a Journey of Programming, Data Analysis, and Machine Learning
 url: https://bshreeks.github.io/ # your main domain
 baseurl: "" # the subpath of your site, e.g., /blog
 logo: /assets/images/PP2.jpg
