@@ -340,7 +340,7 @@ layout: default
 </head>
 <body>
     <section>
-        <h4 style="text-align:center; color:maroon;"><span class="background">Data Sources (SQL)</span></h4>
+        <h4 style="text-align:center; color:maroon;"><span class="background">Working With Data Sources</span></h4>
     </section>
 </body>
 <hr>
@@ -358,7 +358,7 @@ layout: default
      </div>
 
     
-    <div class="image-block"> 
+     <div class="image-block"> 
 
       <figure>
         <figcaption class="figure-title"><strong>Intermediate SQL</strong><span style="font-size: 15px; color:grey;"> (Data Joining, Intermediate Joins, Building and Organizing Complex Queries)</span></figcaption>
@@ -367,9 +367,9 @@ layout: default
         </a>
         <figcaption>Answering Business Questions for Chinook Record Store</figcaption>
       </figure>
-     </div>
+      </div>
 
-  <div class="image-block"> 
+     <div class="image-block"> 
 
       <figure>
         <figcaption class="figure-title"><strong>Data Analysis for Business in Python</strong><span style="font-size: 15px; color:grey;"> </span></figcaption>
