@@ -372,7 +372,7 @@ layout: default
      <div class="image-block"> 
 
       <figure>
-        <figcaption class="figure-title"><strong>Data Analysis for Business in Python</strong><span style="font-size: 15px; color:grey;"> </span></figcaption>
+        <figcaption class="figure-title"><strong>Data Analysis for Business in Python</strong><span style="font-size: 15px; color:grey;">(Communicating Results, Business Metrics) </span></figcaption>
         <a href="https://github.com/bshreeks/Dataquest_5/blob/main/11_Popular_DataScience_Questions.ipynb" target="_blank">
         <img src="/assets/images/StackExchange.jpg" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
