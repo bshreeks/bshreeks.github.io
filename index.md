@@ -379,7 +379,6 @@ layout: default
         <figcaption>Exploring Business Queries With Stack Exchange</figcaption>
       </figure>
      </div>
-     
     </div>
 
 
