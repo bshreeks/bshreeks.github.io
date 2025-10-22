@@ -114,7 +114,7 @@ layout: default
     <ul>
         <li><strong>Mindful Beginnings:</strong> I start each day with 10 minutes of mindful meditation to center myself and set a positive tone for the day.</li>
         <li><strong>Avid Reader:</strong> I have a passion for reading and enjoy immersing myself in a wide range of books.</li>
-        <li><strong>Community Volunteer:</strong> Every week, I dedicate time to volunteer at Elementary school, assisting teachers and helping to support the community.</li>
+        <li><strong>Community Volunteer:</strong> Every week, I dedicate time to volunteer at the Elementary school, assisting teachers and helping to support the community.</li>
         <li><strong>Fitness Enthusiast:</strong> I love staying active through pilates, hiking, and yoga, which keep me physically fit and mentally refreshed.</li>
     </ul>
    </em> 
