@@ -399,7 +399,7 @@ layout: default
       <figure>
         <figcaption class="figure-title"><strong>Introduction to Statistics in Python</strong><span style="font-size: 15px; color:grey;"> (Sampling, Variables in Statistics, Frequency Distribution, Visualizing Frequency Distributions, Comparing Frequency Distributions)</span></figcaption>
         <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Fandango_Movie_Ratings.ipynb" target="_blank">
-        <img src="/assets/images/CIA.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        <img src="/assets/images/Fandango.png" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Investigation of Fandango Movie Ratings</figcaption>
       </figure>
