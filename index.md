@@ -410,7 +410,7 @@ layout: default
     
       <figure>
         <figcaption class="figure-title"><strong>Intermediate Statistics in Python</strong><span style="font-size: 15px; color:grey;"> (Mean, Weighted Mean, Median, Mode, Measure of Variability, Z-scores)</span></figcaption>
-        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Best_markets_to_Advertise.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Best_Market_to_Advertise.ipynb" target="_blank">
         <img src="/assets/images/Marketing.jpg" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Finding Two Best Markets for Product Advertisement</figcaption>
