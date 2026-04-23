@@ -417,6 +417,17 @@ layout: default
       </figure>
      </div>
 
+     <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>Introduction to Probability in Python</strong><span style="font-size: 15px; color:grey;"> (Estimating Probabilities, Probability Rules, Solving Complex Probability Problems, Permutations & Combinations)</span></figcaption>
+        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Best_Market_to_Advertise.ipynb" target="_blank">
+        <img src="/assets/images/OIP.png" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Developing a Mobile App for Lottery Addiction</figcaption>
+      </figure>
+     </div>
+
      
 
      </div>
