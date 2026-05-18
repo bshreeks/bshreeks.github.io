@@ -432,7 +432,7 @@ layout: default
     
       <figure>
         <figcaption class="figure-title"><strong>Introduction to Conditional Probability in Python</strong><span style="font-size: 15px; color:grey;"> (Conditional Probability Concepts, Bayes Theorem, The Naive Bayes Algorithm)</span></figcaption>
-        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Developing_a_Mobile_App.ipynb" target="_blank">
+        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Building_SpamFilter_with_BayesAlgorithm.ipynb" target="_blank">
         <img src="/assets/images/Spam.jpg" alt="spam_logo" style="width: 250px; height: 200px;">
         </a>
         <figcaption>Building a Spam Filter with Naive Bayes</figcaption>
