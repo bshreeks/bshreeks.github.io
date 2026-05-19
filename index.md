@@ -393,7 +393,7 @@ layout: default
 </body>
 <hr>
 
-<div class="container" style="transform:TranslateX(-150px);">
+<div class="container" style="transform:TranslateX(-200px);">
     
     <div class="image-block">
     
