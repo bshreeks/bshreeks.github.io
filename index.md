@@ -430,7 +430,7 @@ layout: default
 
      </div>
 
-     <div class="container" style="transform:TranslateX(-30px);">
+     <div class="container" style="transform:TranslateX(-20px);">
 
      <div class="image-block">
     
