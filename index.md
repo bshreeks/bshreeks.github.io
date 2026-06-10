@@ -443,7 +443,7 @@ layout: default
       </figure>
      </div>
 
-     <div class="image-block">
+    <div class="image-block">
     
       <figure>
         <figcaption class="figure-title"><strong>Hypothesis Testing in Python</strong><span style="font-size: 15px; color:grey;"> (Significance Testing, Chi-Squared Testing, p-value, Multi-category Chi-Squared Tests)</span></figcaption>
