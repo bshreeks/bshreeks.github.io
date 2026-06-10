@@ -439,6 +439,17 @@ layout: default
       </figure>
      </div>
 
+     <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>Hypothesis Testing in Python</strong><span style="font-size: 15px; color:grey;"> (Significance Testing, Chi-Squared Testing, Multi-category Chi-Squared Tests)</span></figcaption>
+        <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Winning_Jeopardy.ipynb" target="_blank">
+        <img src="/assets/images/jeopardy.jpg" alt="spam_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Answering Jeopardy Questions to Win Money</figcaption>
+      </figure>
+     </div>
+
      
 
      </div>
