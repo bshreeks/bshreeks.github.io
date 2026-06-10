@@ -393,7 +393,7 @@ layout: default
 </body>
 <hr>
 
-<div class="container" style="transform:TranslateX(-400px);">
+<div class="container" style="transform:TranslateX(-150px);">
     
     <div class="image-block">
     
@@ -428,6 +428,10 @@ layout: default
       </figure>
      </div>
 
+     </div>
+
+     <div class="container" style="transform:TranslateX(-150px);">
+
      <div class="image-block">
     
       <figure>
@@ -450,9 +454,7 @@ layout: default
       </figure>
      </div>
 
-     
-
-     </div>
+    </div>
 
 
 
