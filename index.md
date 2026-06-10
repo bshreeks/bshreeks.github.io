@@ -430,7 +430,7 @@ layout: default
 
      </div>
 
-     <div class="container" style="transform:TranslateX(-35px);">
+     <div class="container" style="transform:TranslateX(-30px);">
 
      <div class="image-block">
     
@@ -446,7 +446,7 @@ layout: default
      <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Hypothesis Testing in Python</strong><span style="font-size: 15px; color:grey;"> (Significance Testing, Chi-Squared Testing, p-value, Multi-category Chi-Squared Tests)</span></figcaption>
+        <figcaption class="figure-title"><strong>Hypothesis Testing in Python</strong><span style="font-size: 15px; color:grey;"> (Significance Testing, Chi-Squared Testing, Assessing p-value, Multi-category Chi-Squared Tests)</span></figcaption>
         <a href="https://github.com/bshreeks/Dataquest-Statistics-and-Probability/blob/main/Winning_Jeopardy.ipynb" target="_blank">
         <img src="/assets/images/joepardy.jpg" alt="spam_logo" style="width: 250px; height: 200px;">
         </a>
