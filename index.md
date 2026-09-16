@@ -466,6 +466,20 @@ layout: default
     </section>
 </body>
 <hr>
+
+<div class="container" style="transform:TranslateX(-150px);">
+    
+    <div class="image-block">
+    
+      <figure>
+        <figcaption class="figure-title"><strong>Introduction to Supervised Machine Learning in Python</strong><span style="font-size: 15px; color:grey;"> (Machine Learning Workflow, K Nearest Neighbor, Evaluating Model Performance, Hyperparameter Oprimization)</span></figcaption>
+        <a href="https://github.com/bshreeks/Machine-Learning/blob/main/HeartDisease.ipynb" target="_blank">
+        <img src="/assets/images/HD.jpg" alt="ebay_logo" style="width: 250px; height: 200px;">
+        </a>
+        <figcaption>Predicting Heart Disease</figcaption>
+      </figure>
+     </div>
+
  
 
 
