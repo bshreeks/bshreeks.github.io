@@ -456,6 +456,18 @@ layout: default
 
     </div>
 
+   <hr>
+<head>
+    <title>Heading in a Block Example</title>
+</head>
+<body>
+    <section>
+        <h4 style="text-align:center; color:maroon;"><span class="background">Machine Learning</span></h4>
+    </section>
+</body>
+<hr>
+ 
+
 
 
 
