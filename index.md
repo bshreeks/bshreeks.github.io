@@ -456,6 +456,8 @@ layout: default
 
     </div>
 
+    
+
    <hr>
 <head>
     <title>Heading in a Block Example</title>
@@ -472,7 +474,7 @@ layout: default
     <div class="image-block">
     
       <figure>
-        <figcaption class="figure-title"><strong>Introduction to Supervised Machine Learning in Python</strong><span style="font-size: 15px; color:grey;"> (Machine Learning Workflow, K Nearest Neighbor, Evaluating Model Performance, Hyperparameter Oprimization)</span></figcaption>
+        <figcaption class="figure-title"><strong>Introduction to Supervised Machine Learning in Python</strong><span style="font-size: 15px; color:grey;"> (Machine Learning Workflow, K Nearest Neighbor, Evaluating Model Performance, Hyperparameter Optimization)</span></figcaption>
         <a href="https://github.com/bshreeks/Machine-Learning/blob/main/HeartDisease.ipynb" target="_blank">
         <img src="/assets/images/HD.jpg" alt="ebay_logo" style="width: 250px; height: 200px;">
         </a>
