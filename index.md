@@ -479,6 +479,7 @@ layout: default
         <figcaption>Predicting Heart Disease</figcaption>
       </figure>
      </div>
+    </div> 
 
  
 
